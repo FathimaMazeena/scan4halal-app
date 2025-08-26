@@ -1,0 +1,793 @@
+[
+    {
+      "name": "Curcumin/Turmeric",
+      "synonyms": ["E100"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if pure powder, Mushbooh if liquid solvents used, Haram if pork emulsifiers present."
+    },
+    {
+      "name": "Riboflavin (Vitamin B2)",
+      "synonyms": ["E101"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if plant-derived, Haram if from pork liver/kidney."
+    },
+    {
+      "name": "Tartrazine",
+      "synonyms": ["E102"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Quinoline Yellow",
+      "synonyms": ["E104"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (non-water solvents)."
+    },
+    {
+      "name": "Sunset Yellow FCF",
+      "synonyms": ["E110"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Cochineal/Carminic Acid",
+      "synonyms": ["E120"],
+      "category": "Color",
+      "status": "haram",
+      "description": "Prohibited by Hanafi Fiqh."
+    },
+    {
+      "name": "Carmoisine/Azorubine",
+      "synonyms": ["E122"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Amaranth",
+      "synonyms": ["E123"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Ponceau 4R",
+      "synonyms": ["E124"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Erythrosine BS",
+      "synonyms": ["E127"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Patent Blue V",
+      "synonyms": ["E131"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Indigo Carmine",
+      "synonyms": ["E132"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if synthetic, Haram if pork glycerin added."
+    },
+    {
+      "name": "Chlorophyll",
+      "synonyms": ["E140"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if powder or water/vegetable oil solvent used."
+    },
+    {
+      "name": "Copper Chlorophyll",
+      "synonyms": ["E141"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if powder or water/vegetable oil solvent used."
+    },
+    {
+      "name": "Green S",
+      "synonyms": ["E142"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Caramel Color",
+      "synonyms": ["E150(a-d)"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Black PN",
+      "synonyms": ["E151"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Vegetable Carbon",
+      "synonyms": ["E153"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Carotenes",
+      "synonyms": ["E160a"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Annatto",
+      "synonyms": ["E160b"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Lycopene",
+      "synonyms": ["E160d"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if powder/vegetable oil, Haram if pork gelatin used."
+    },
+    {
+      "name": "Lutein",
+      "synonyms": ["E161b"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if powder, Haram if pork gelatin/glycerin added."
+    },
+    {
+      "name": "Beetroot Red",
+      "synonyms": ["E162"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Calcium Carbonate",
+      "synonyms": ["E170"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal if mineral-derived powder, Mushbooh if liquid form."
+    },
+    {
+      "name": "Titanium Dioxide",
+      "synonyms": ["E171"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Iron Oxides",
+      "synonyms": ["E172"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Aluminium",
+      "synonyms": ["E173"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Silver",
+      "synonyms": ["E174"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Gold",
+      "synonyms": ["E175"],
+      "category": "Color",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Lithol Rubine BK",
+      "synonyms": ["E180"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents)."
+    },
+    {
+      "name": "Sorbic Acid",
+      "synonyms": ["E200"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Sorbate",
+      "synonyms": ["E201"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Potassium Sorbate",
+      "synonyms": ["E202"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Sorbate",
+      "synonyms": ["E203"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Benzoic Acid",
+      "synonyms": ["E210"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Benzoate",
+      "synonyms": ["E211"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Potassium Benzoate",
+      "synonyms": ["E212"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Benzoate",
+      "synonyms": ["E213"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones."
+    },
+    {
+      "name": "Ethyl 4-hydroxybenzoate",
+      "synonyms": ["E214"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "description": "Haram if alcohol solvent used."
+    },
+    {
+      "name": "Sulphur Dioxide",
+      "synonyms": ["E220"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Sulphite",
+      "synonyms": ["E221"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Metabisulphite",
+      "synonyms": ["E223"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Potassium Metabisulphite",
+      "synonyms": ["E224"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Sulphite",
+      "synonyms": ["E226"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Hydrogen Sulphite",
+      "synonyms": ["E227"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones."
+    },
+    {
+      "name": "Biphenyl",
+      "synonyms": ["E230"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Permissible if no alcohol solvent."
+    },
+    {
+      "name": "Hexamine",
+      "synonyms": ["E239"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Nitrite",
+      "synonyms": ["E250"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Nitrate",
+      "synonyms": ["E251"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Potassium Nitrate",
+      "synonyms": ["E252"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Acetic Acid",
+      "synonyms": ["E260"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Potassium Acetate",
+      "synonyms": ["E261"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Lactic Acid",
+      "synonyms": ["E270"],
+      "category": "Acid",
+      "status": "mushbooh",
+      "description": "Halal if non-dairy source, Mushbooh if dairy-derived."
+    },
+    {
+      "name": "Propionic Acid",
+      "synonyms": ["E280"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Propionate",
+      "synonyms": ["E281"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Propionate",
+      "synonyms": ["E282"],
+      "category": "Acid",
+      "status": "mushbooh",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones."
+    },
+    {
+      "name": "Carbon Dioxide",
+      "synonyms": ["E290"],
+      "category": "Miscellaneous",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Ascorbic Acid (Vitamin C)",
+      "synonyms": ["E300"],
+      "category": "Antioxidant",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Ascorbate",
+      "synonyms": ["E301"],
+      "category": "Antioxidant",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Ascorbate",
+      "synonyms": ["E302"],
+      "category": "Antioxidant",
+      "status": "mushbooh",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones."
+    },
+    {
+      "name": "Ascorbyl Palmitate",
+      "synonyms": ["E304"],
+      "category": "Antioxidant",
+      "status": "mushbooh",
+      "description": "Haram if palmitic acid from pork fat."
+    },
+    {
+      "name": "Tocopherols",
+      "synonyms": ["E306"],
+      "category": "Antioxidant",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Propyl Gallate",
+      "synonyms": ["E310"],
+      "category": "Antioxidant",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Octyl Gallate",
+      "synonyms": ["E311"],
+      "category": "Antioxidant",
+      "status": "halal",
+      "description": "From plant sources only."
+    },
+    {
+      "name": "Butylated Hydroxyanisole (BHA)",
+      "synonyms": ["E320"],
+      "category": "Antioxidant",
+      "status": "mushbooh",
+      "description": "Haram if pork fat carrier used."
+    },
+    {
+      "name": "Butylated Hydroxytoluene (BHT)",
+      "synonyms": ["E321"],
+      "category": "Antioxidant",
+      "status": "mushbooh",
+      "description": "Haram if pork fat carrier used."
+    },
+    {
+      "name": "Lecithin",
+      "synonyms": ["E322"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Halal if plant/egg-derived, Haram if from pork."
+    },
+    {
+      "name": "Sodium Lactate",
+      "synonyms": ["E325"],
+      "category": "Acid Salt",
+      "status": "mushbooh",
+      "description": "Halal if lactic acid non-dairy."
+    },
+    {
+      "name": "Citric Acid",
+      "synonyms": ["E330"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Citrate",
+      "synonyms": ["E331"],
+      "category": "Acid Salt",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Citrate",
+      "synonyms": ["E333"],
+      "category": "Acid Salt",
+      "status": "mushbooh",
+      "description": "Halal if calcium not from bones."
+    },
+    {
+      "name": "Tartaric Acid",
+      "synonyms": ["E334"],
+      "category": "Acid",
+      "status": "mushbooh",
+      "description": "Haram if wine by-product."
+    },
+    {
+      "name": "Phosphoric Acid",
+      "synonyms": ["E338"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Phosphate",
+      "synonyms": ["E339"],
+      "category": "Acid Salt",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Calcium Phosphate",
+      "synonyms": ["E341"],
+      "category": "Acid Salt",
+      "status": "mushbooh",
+      "description": "Halal if calcium from mineral."
+    },
+    {
+      "name": "Alginic Acid",
+      "synonyms": ["E400"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Alginate",
+      "synonyms": ["E401"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Agar",
+      "synonyms": ["E406"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Carrageenan",
+      "synonyms": ["E407"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Locust Bean Gum",
+      "synonyms": ["E410"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Guar Gum",
+      "synonyms": ["E412"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Gum Arabic",
+      "synonyms": ["E414"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Xanthan Gum",
+      "synonyms": ["E415"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sorbitol",
+      "synonyms": ["E420"],
+      "category": "Sweetener",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Glycerol/Glycerin",
+      "synonyms": ["E422"],
+      "category": "Sweetener",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Pectin",
+      "synonyms": ["E440a"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Microcrystalline Cellulose",
+      "synonyms": ["E460"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Methylcellulose",
+      "synonyms": ["E461"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Stearoyl Lactylate",
+      "synonyms": ["E481"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Calcium Stearoyl Lactylate",
+      "synonyms": ["E482"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Stearyl Tartrate",
+      "synonyms": ["E483"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Yellow 2G",
+      "synonyms": ["107"],
+      "category": "Color",
+      "status": "mushbooh",
+      "description": "Halal in dry form, Mushbooh in liquid form."
+    },
+    {
+      "name": "Nisin",
+      "synonyms": ["234"],
+      "category": "Preservative",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Acetate",
+      "synonyms": ["262"],
+      "category": "Acid Salt",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Malic Acid",
+      "synonyms": ["296"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Malate",
+      "synonyms": ["350"],
+      "category": "Acid Salt",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Adipic Acid",
+      "synonyms": ["355"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Karaya Gum",
+      "synonyms": ["416"],
+      "category": "Emulsifier",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Polysorbate 20",
+      "synonyms": ["432"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Polysorbate 80",
+      "synonyms": ["433"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Sodium Carbonate",
+      "synonyms": ["500"],
+      "category": "Acid Salt",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Hydrochloric Acid",
+      "synonyms": ["507"],
+      "category": "Acid",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Sodium Hydroxide",
+      "synonyms": ["524"],
+      "category": "Alkali",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Silicon Dioxide",
+      "synonyms": ["551"],
+      "category": "Anti-caking",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Stearic Acid",
+      "synonyms": ["570"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Magnesium Stearate",
+      "synonyms": ["572"],
+      "category": "Emulsifier",
+      "status": "mushbooh",
+      "description": "Haram if from pork fat."
+    },
+    {
+      "name": "Monosodium Glutamate (MSG)",
+      "synonyms": ["621"],
+      "category": "Flavor Enhancer",
+      "status": "mushbooh",
+      "description": "Haram if culture media contains pork."
+    },
+    {
+      "name": "Sodium Guanylate",
+      "synonyms": ["627"],
+      "category": "Flavor Enhancer",
+      "status": "mushbooh",
+      "description": "Haram if from brewer's yeast (alcohol by-product)."
+    },
+    {
+      "name": "Sodium Inosinate",
+      "synonyms": ["631"],
+      "category": "Flavor Enhancer",
+      "status": "mushbooh",
+      "description": "Haram if from pork or brewer's yeast."
+    },
+    {
+      "name": "Beeswax",
+      "synonyms": ["901"],
+      "category": "Glazing Agent",
+      "status": "halal",
+      "description": "Always permissible."
+    },
+    {
+      "name": "Shellac",
+      "synonyms": ["904"],
+      "category": "Glazing Agent",
+      "status": "mushbooh",
+      "description": "Haram if alcohol-treated."
+    },
+    {
+      "name": "L-Cysteine Hydrochloride",
+      "synonyms": ["920"],
+      "category": "Flour Treatment",
+      "status": "mushbooh",
+      "description": "Haram if from human hair/pork, Mushbooh if from feathers."
+    },
+    {
+      "name": "Chlorine",
+      "synonyms": ["925"],
+      "category": "Flour Treatment",
+      "status": "halal",
+      "description": "Always permissible."
+    }
+  ]

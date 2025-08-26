@@ -1,0 +1,1916 @@
+{
+  "ingredients": [
+    {
+      "name": "Curcumin/Turmeric",
+      "synonyms": ["E100"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "Pure grind turmeric powder or granular",
+      "description": "Mushbooh if used as liquid - solvents must be Halal. Haraam if hidden ingredient is pork fat based emulsifier in dry mix."
+    },
+    {
+      "name": "Riboflavin (Vitamin B2)",
+      "synonyms": ["E101"],
+      "category": "Color",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork liver & kidney. Halal if 100% plant material."
+    },
+    {
+      "name": "Tartrazine",
+      "synonyms": ["E102"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Quinoline Yellow",
+      "synonyms": ["E104"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent (other than water) must be Halal"
+    },
+    {
+      "name": "Sunset Yellow FCF / Orange Yellow S",
+      "synonyms": ["E110"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Cochineal / Carminic Acid",
+      "synonyms": ["E120"],
+      "category": "Color",
+      "status": "haram",
+      "condition": "",
+      "description": "Haraam according to Hanafi Fiqh"
+    },
+    {
+      "name": "Carmoisine / Azorubine",
+      "synonyms": ["E122"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Amaranth",
+      "synonyms": ["E123"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Ponceau 4R / Cochineal Red A",
+      "synonyms": ["E124"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Erythrosine BS",
+      "synonyms": ["E127"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Patent Blue V",
+      "synonyms": ["E131"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Indigo Carmine / Idigotine",
+      "synonyms": ["E132"],
+      "category": "Color",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if 100% synthetic. Haraam if pork glycerin is added as solvent"
+    },
+    {
+      "name": "Chlorophyll",
+      "synonyms": ["E140"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% powder or water/vegetable oil solvent",
+      "description": ""
+    },
+    {
+      "name": "Copper Complex of Chlorophyll",
+      "synonyms": ["E141"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% powder or water/vegetable oil solvent",
+      "description": ""
+    },
+    {
+      "name": "Green S / Acid Brilliant Green BS",
+      "synonyms": ["E142"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Caramel Color/with chemicals",
+      "synonyms": ["E150(a-d)"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Black PN / Brilliant Black BN",
+      "synonyms": ["E151"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Carbon Black / Vegetable Carbon (Charcoal)",
+      "synonyms": ["E153"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Alpha, Beta, Gamma Carotene",
+      "synonyms": ["E160a"],
+      "category": "Color - Carotene",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Annatto, Bixin, Norbixin",
+      "synonyms": ["E160b"],
+      "category": "Color - Carotene",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Capsanthin / Capsorbin",
+      "synonyms": ["E160c"],
+      "category": "Color - Carotene",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Lycopene",
+      "synonyms": ["E160d"],
+      "category": "Color - Carotene",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Beta-apo-8-carotenal",
+      "synonyms": ["E160e"],
+      "category": "Color - Carotene",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if 100% dry powder or vegetable oil solvent. Haraam if pork gelatin is used as hidden ingredient"
+    },
+    {
+      "name": "Ethyl ester of Beta-apo-8-cartonoic acid",
+      "synonyms": ["E160f"],
+      "category": "Color - Carotene",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if 100% dry powder or vegetable oil solvent. Haraam if pork gelatin is used as hidden ingredient"
+    },
+    {
+      "name": "Flavoxanthin",
+      "synonyms": ["E161a"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Lutein",
+      "synonyms": ["E161b"],
+      "category": "Color",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if pork gelatin or pork glycerin is added in dry or liquid form"
+    },
+    {
+      "name": "Cryptoxanthin",
+      "synonyms": ["E161c"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Rubixanthin",
+      "synonyms": ["E161d"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Violaxanthin",
+      "synonyms": ["E161e"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Rhodoxanthin",
+      "synonyms": ["E161f"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Canthaxanthin",
+      "synonyms": ["E161g"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Beetroot Red / Betanin",
+      "synonyms": ["E162"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Anthocyanins",
+      "synonyms": ["E163"],
+      "category": "Color",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Calcium Carbonate (Chalk)",
+      "synonyms": ["E170"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "Obtained from rock mineral and used as 100% dry powder or granular",
+      "description": "Mushbooh if used as liquid - solvent must be Halal"
+    },
+    {
+      "name": "Titanium Dioxide",
+      "synonyms": ["E171"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Iron Oxides and Hydroxides",
+      "synonyms": ["E172"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Aluminium",
+      "synonyms": ["E173"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Silver",
+      "synonyms": ["E174"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Gold",
+      "synonyms": ["E175"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Pigment Rubine / Lithol Rubine BK",
+      "synonyms": ["E180"],
+      "category": "Color - Inorganic",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Sorbic Acid",
+      "synonyms": ["E200"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Sorbate",
+      "synonyms": ["E201"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Sorbate",
+      "synonyms": ["E202"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Sorbate",
+      "synonyms": ["E203"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Benzoic Acid",
+      "synonyms": ["E210"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Benzoate",
+      "synonyms": ["E211"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Benzoate",
+      "synonyms": ["E212"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Benzoate",
+      "synonyms": ["E213"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if calcium from mineral. Mushbooh if from bones"
+    },
+    {
+      "name": "Ethyl 4-hydroxybenzoate",
+      "synonyms": ["E214"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Ethyl 4-hydroxybenzoate, Sodium Salt",
+      "synonyms": ["E215"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Propyl 4-hydroxybenzoate",
+      "synonyms": ["E216"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Propyl 4-hydroxybenzoate, Sodium Salt",
+      "synonyms": ["E217"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Methyl 4-hydroxybenzoate",
+      "synonyms": ["E218"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Methyl 4-hydroxybenzoate, Sodium Salt",
+      "synonyms": ["E219"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Solvent verification required",
+      "description": "Haraam if alcohol is used as solvent"
+    },
+    {
+      "name": "Sulphur Dioxide",
+      "synonyms": ["E220"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Sulphite",
+      "synonyms": ["E221"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Hydrogen Sulphite",
+      "synonyms": ["E222"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Metabisulphite",
+      "synonyms": ["E223"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Metabisulphite",
+      "synonyms": ["E224"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Sulphite",
+      "synonyms": ["E226"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Hydrogen Sulphite",
+      "synonyms": ["E227"],
+      "category": "Preservative",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if calcium from mineral or chemicals. Mushbooh if from bones"
+    },
+    {
+      "name": "Biphenyl / Diphenyl",
+      "synonyms": ["E230"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "No alcohol as solvent",
+      "description": ""
+    },
+    {
+      "name": "2-Hydroxybiphenyl",
+      "synonyms": ["E231"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "No alcohol as solvent",
+      "description": ""
+    },
+    {
+      "name": "Sodium Biphenyl-2-yl Oxide",
+      "synonyms": ["E232"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "No alcohol as solvent",
+      "description": ""
+    },
+    {
+      "name": "2-(Thiazol-4-yl) Benzimidazole",
+      "synonyms": ["E233"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "No alcohol as solvent",
+      "description": ""
+    },
+    {
+      "name": "Hexamine",
+      "synonyms": ["E239"],
+      "category": "Preservative - other",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Nitrate",
+      "synonyms": ["E249"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Nitrite",
+      "synonyms": ["E250"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Nitrate",
+      "synonyms": ["E251"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Nitrate(Saltpetre)",
+      "synonyms": ["E252"],
+      "category": "Preservative",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Acetic Acid",
+      "synonyms": ["E260"],
+      "category": "Miscellaneous - Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Acetate",
+      "synonyms": ["E261"],
+      "category": "Miscellaneous - Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Hydrogen Diacetate",
+      "synonyms": ["E262"],
+      "category": "Miscellaneous - Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Acetate",
+      "synonyms": ["E263"],
+      "category": "Miscellaneous - Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Lactic Acid",
+      "synonyms": ["E270"],
+      "category": "Miscellaneous - Acids",
+      "status": "halal",
+      "condition": "Obtained other than whey",
+      "description": "In USA always from non-dairy source"
+    },
+    {
+      "name": "Propionic Acid",
+      "synonyms": ["E280"],
+      "category": "Preservative - Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Propionate",
+      "synonyms": ["E281"],
+      "category": "Preservative- Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Propionate",
+      "synonyms": ["E282"],
+      "category": "Preservative- Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if calcium from mineral. Mushbooh if from bones"
+    },
+    {
+      "name": "Potassium Propionate",
+      "synonyms": ["E283"],
+      "category": "Preservative- Acids",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Carbon Dioxide",
+      "synonyms": ["E290"],
+      "category": "Miscellaneous",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "L-Ascorbic Acid (Vitamin C)",
+      "synonyms": ["E300"],
+      "category": "Antioxidants-Vitamin C",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium-L-Ascorbate",
+      "synonyms": ["E301"],
+      "category": "Antioxidants-Vitamin C and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium-L-Ascorbate",
+      "synonyms": ["E302"],
+      "category": "Antioxidants-Vitamin C and derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Halal if calcium from mineral. Mushbooh if from bones"
+    },
+    {
+      "name": "Ascorbyl Palmitate",
+      "synonyms": ["E304"],
+      "category": "Antioxidants-Vitamin C and derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if palmitic acid is from pork fat"
+    },
+    {
+      "name": "Natural Extracts rich in Tocopherols",
+      "synonyms": ["E306"],
+      "category": "Antioxidants-Vitamin E",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if Tocopherol is from pork fat"
+    },
+    {
+      "name": "Synthetic Alpha-Tocopherol",
+      "synonyms": ["E307"],
+      "category": "Antioxidants-Vitamin E",
+      "status": "halal",
+      "condition": "Made with all Halal synthetic material without alcoholic fermentation",
+      "description": ""
+    },
+    {
+      "name": "Synthetic Gamma-Tocopherol",
+      "synonyms": ["E308"],
+      "category": "Antioxidants-Vitamin E",
+      "status": "halal",
+      "condition": "Made with all Halal synthetic material without alcoholic fermentation",
+      "description": ""
+    },
+    {
+      "name": "Synthetic Delta-Tocopherol",
+      "synonyms": ["E309"],
+      "category": "Antioxidants-Vitamin E",
+      "status": "halal",
+      "condition": "Made with all Halal synthetic material without alcoholic fermentation",
+      "description": ""
+    },
+    {
+      "name": "Propyl Gallate",
+      "synonyms": ["E310"],
+      "category": "Antioxidants- other",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Octyl Gallate",
+      "synonyms": ["E311"],
+      "category": "Antioxidants- other",
+      "status": "halal",
+      "condition": "Obtained from nutgalls or plant secretion",
+      "description": ""
+    },
+    {
+      "name": "Dodecyl Gallate",
+      "synonyms": ["E312"],
+      "category": "Antioxidants- other",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if alcohol was used as solvent"
+    },
+    {
+      "name": "Butylated Hydroxyanisole (BHA)",
+      "synonyms": ["E320"],
+      "category": "Antioxidants- other",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if carrier is from pork fat. Not available as pure 100% chemical."
+    },
+    {
+      "name": "Butylated Hydroxytoluene (BHT)",
+      "synonyms": ["E321"],
+      "category": "Antioxidants- other",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if carrier is from pork fat. Not available as pure 100% chemical."
+    },
+    {
+      "name": "Lecithin",
+      "synonyms": ["E322"],
+      "category": "Emulsifiers and Stabilizers",
+      "status": "halal",
+      "condition": "Obtained from soy fat or egg yolk in Europe",
+      "description": "Halal in USA (always from soy fat)"
+    },
+    {
+      "name": "Sodium Lactate",
+      "synonyms": ["E325"],
+      "category": "Miscellaneous - Salts of Lactic Acid",
+      "status": "halal",
+      "condition": "Lactic acid from non-dairy source",
+      "description": ""
+    },
+    {
+      "name": "Potassium Lactate",
+      "synonyms": ["E326"],
+      "category": "Miscellaneous - Salts of Lactic Acid",
+      "status": "halal",
+      "condition": "Lactic acid from non-dairy source",
+      "description": ""
+    },
+    {
+      "name": "Calcium Lactate",
+      "synonyms": ["E327"],
+      "category": "Miscellaneous - Salts of Lactic Acid",
+      "status": "halal",
+      "condition": "Lactic acid from non-dairy source and calcium from mineral",
+      "description": ""
+    },
+    {
+      "name": "Citric Acid",
+      "synonyms": ["E330"],
+      "category": "Miscellaneous - Citric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Citrates",
+      "synonyms": ["E331"],
+      "category": "Miscellaneous - Citric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Citrates",
+      "synonyms": ["E332"],
+      "category": "Miscellaneous - Citric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Citrates",
+      "synonyms": ["E333"],
+      "category": "Miscellaneous - Citric Acid and its Salts",
+      "status": "halal",
+      "condition": "Calcium source not from bones",
+      "description": ""
+    },
+    {
+      "name": "Tartaric Acid",
+      "synonyms": ["E334"],
+      "category": "Miscellaneous - Tartaric Acid and its Salts",
+      "status": "halal",
+      "condition": "Not obtained from wine by-product",
+      "description": "In USA Halal (obtained from un-fermented grapes)"
+    },
+    {
+      "name": "Sodium Tartrates",
+      "synonyms": ["E335"],
+      "category": "Miscellaneous - Tartaric Acid and its Salts",
+      "status": "halal",
+      "condition": "Not obtained from wine by-product",
+      "description": "In USA Halal (obtained from un-fermented grapes)"
+    },
+    {
+      "name": "Potassium Tartrates (Cream of Tartar)",
+      "synonyms": ["E336"],
+      "category": "Miscellaneous - Tartaric Acid and its Salts",
+      "status": "halal",
+      "condition": "Not obtained from wine by-product",
+      "description": "In USA Halal (obtained from un-fermented grapes)"
+    },
+    {
+      "name": "Potassium Sodium Tartrates",
+      "synonyms": ["E337"],
+      "category": "Miscellaneous - Tartaric Acid and its Salts",
+      "status": "halal",
+      "condition": "Not obtained from wine by-product",
+      "description": "In USA Halal (obtained from un-fermented grapes)"
+    },
+    {
+      "name": "Orthophosphoric Acid",
+      "synonyms": ["E338"],
+      "category": "Miscellaneous - Phosphoric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Phosphates",
+      "synonyms": ["E339"],
+      "category": "Miscellaneous - Phosphoric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Phosphates",
+      "synonyms": ["E340"],
+      "category": "Miscellaneous - Phosphoric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Phosphates",
+      "synonyms": ["E341"],
+      "category": "Miscellaneous - Phosphoric Acid and its Salts",
+      "status": "halal",
+      "condition": "Calcium from mineral source",
+      "description": ""
+    },
+    {
+      "name": "Alginic Acid",
+      "synonyms": ["E400"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Alginate",
+      "synonyms": ["E401"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Alginate",
+      "synonyms": ["E402"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ammonium Alginate",
+      "synonyms": ["E403"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Alginate",
+      "synonyms": ["E404"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "Calcium source from mineral",
+      "description": ""
+    },
+    {
+      "name": "Propane-1,2-Diol Alginate",
+      "synonyms": ["E405"],
+      "category": "Emulsifiers and Stabilizers - Alginates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Agar",
+      "synonyms": ["E406"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Carrageenan",
+      "synonyms": ["E407"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Locust Bean Gum (Carob Gum)",
+      "synonyms": ["E410"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Guar Gum",
+      "synonyms": ["E412"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Tragacanth",
+      "synonyms": ["E413"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Gum Acacia (Gum Arabic)",
+      "synonyms": ["E414"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Xanthan Gum",
+      "synonyms": ["E415"],
+      "category": "Emulsifiers and Stabilizers - other plant gums",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sorbitol",
+      "synonyms": ["E420"],
+      "category": "Sugar Alcohol",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Mannitol",
+      "synonyms": ["E421"],
+      "category": "Sugar Alcohol",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Glycerol",
+      "synonyms": ["E422"],
+      "category": "Sugar Alcohol",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Called Glycerin in USA. Haraam if from pork fat"
+    },
+    {
+      "name": "Pectin",
+      "synonyms": ["E440a"],
+      "category": "Emulsifiers and Stabilizers - Pectin and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Amidated Pectin",
+      "synonyms": ["E440b"],
+      "category": "Emulsifiers and Stabilizers - Pectin and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium and Potassium Phosphates and Polyphosphates",
+      "synonyms": ["E450a,b,c"],
+      "category": "Miscellaneous",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Microcrystalline / Powdered Cellulose",
+      "synonyms": ["E460"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Methylcellulose",
+      "synonyms": ["E461"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Hydroxypropylcellulose",
+      "synonyms": ["E463"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Hydroxypropyl-Methylcellulose",
+      "synonyms": ["E464"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ethylmethylcellulose",
+      "synonyms": ["E465"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Carboxymethylcellulose, Sodium Salt",
+      "synonyms": ["E466"],
+      "category": "Emulsifiers and Stabilizers - Cellulose and derivatives",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium, Potassium and Calcium Salts of Fatty Acids",
+      "synonyms": ["E470"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Mono-and Diglycerides of Fatty Acids",
+      "synonyms": ["E471"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Various Esters of Mono-and Diglycerides of Fatty Acids",
+      "synonyms": ["E472"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sucrose Esters of Fatty Acids",
+      "synonyms": ["E473"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sucroglycerides",
+      "synonyms": ["E474"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyglycerol Esters of Fatty Acids",
+      "synonyms": ["E475"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Propane-1,2-Diol Esters of Fatty Acids",
+      "synonyms": ["E477"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sodium Stearoyl-2-Lactylate",
+      "synonyms": ["E481"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Calcium Stearoyl-2-Lactylate",
+      "synonyms": ["E482"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Stearyl Tartrate",
+      "synonyms": ["E483"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Yellow 2G",
+      "synonyms": ["107"],
+      "category": "Colors",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Red 2G",
+      "synonyms": ["128"],
+      "category": "Colors",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Brilliant Blue FCF",
+      "synonyms": ["133"],
+      "category": "Colors",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Brown FK",
+      "synonyms": ["154"],
+      "category": "Colors",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Brown HT",
+      "synonyms": ["155"],
+      "category": "Colors",
+      "status": "halal",
+      "condition": "100% dry form",
+      "description": "Mushbooh if used as liquid color - solvent must be Halal"
+    },
+    {
+      "name": "Nisin",
+      "synonyms": ["234"],
+      "category": "Preservative - other",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Acetate",
+      "synonyms": ["262"],
+      "category": "Miscellaneous - Acids and their Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Malic Acid",
+      "synonyms": ["296"],
+      "category": "Miscellaneous - Acids and their Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Fumaric Acid",
+      "synonyms": ["297"],
+      "category": "Miscellaneous - Acids and their Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Malate",
+      "synonyms": ["350"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Malate",
+      "synonyms": ["351"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Malate",
+      "synonyms": ["352"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Metataric Acid",
+      "synonyms": ["353"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Adipic Acid",
+      "synonyms": ["355"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Succinic Acid",
+      "synonyms": ["363"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "1,4-Heptonolactane",
+      "synonyms": ["370"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Nicotinic Acid",
+      "synonyms": ["375"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Triammonium Citrate",
+      "synonyms": ["380"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ammonium Ferric Citrate",
+      "synonyms": ["381"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Disodium EDTA",
+      "synonyms": ["385"],
+      "category": "Miscellaneous - Salts of Malic Acid",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Karaya Gum",
+      "synonyms": ["416"],
+      "category": "Emulsifiers and Stabilizers",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Polyoxyethane (8) Stearate",
+      "synonyms": ["430"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (40) Stearate",
+      "synonyms": ["431"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (20) Sorbitan / Polysorbate 20",
+      "synonyms": ["432"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80",
+      "synonyms": ["433"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40",
+      "synonyms": ["434"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60",
+      "synonyms": ["435"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65",
+      "synonyms": ["436"],
+      "category": "Emulsifiers and Stabilizers - Fatty Acid derivatives",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Polyglycerol Esters of Polycondensed Esters of Caster Oil",
+      "synonyms": ["476"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",
+      "synonyms": ["478"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sorbitan Monostearate",
+      "synonyms": ["491"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sorbitan Tristearate",
+      "synonyms": ["492"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sorbitan Monolaurate",
+      "synonyms": ["493"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sorbitan Mono-oleate",
+      "synonyms": ["494"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sorbitan Monopalmitate",
+      "synonyms": ["495"],
+      "category": "Emulsifiers and Stabilizers - salts or Esters of Fatty Acids",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Sodium Carbonate / Sodium Bicarbonate",
+      "synonyms": ["500"],
+      "category": "Miscellaneous - Acids and Salts: Carbonates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Carbonate / Potassium Bicarbonate",
+      "synonyms": ["501"],
+      "category": "Miscellaneous - Acids and Salts: Carbonates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ammonium Carbonate",
+      "synonyms": ["503"],
+      "category": "Miscellaneous - Acids and Salts: Carbonates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Magnesium Carbonate",
+      "synonyms": ["504"],
+      "category": "Miscellaneous - Acids and Salts: Carbonates",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Hydrochloric Acid",
+      "synonyms": ["507"],
+      "category": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Chloride",
+      "synonyms": ["508"],
+      "category": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Chloride",
+      "synonyms": ["509"],
+      "category": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ammonium Chloride",
+      "synonyms": ["510"],
+      "category": "Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sulphuric Acid",
+      "synonyms": ["513"],
+      "category": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Sulphate",
+      "synonyms": ["514"],
+      "category": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Sulphate",
+      "synonyms": ["515"],
+      "category": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Sulphate",
+      "synonyms": ["516"],
+      "category": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Magnesium Sulphate",
+      "synonyms": ["518"],
+      "category": "Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Hydroxide",
+      "synonyms": ["524"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Hydroxide",
+      "synonyms": ["525"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Hydroxide",
+      "synonyms": ["526"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ammonium Hydroxide",
+      "synonyms": ["527"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Magnesium Hydroxide",
+      "synonyms": ["528"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Oxide",
+      "synonyms": ["529"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Magnesium Oxide",
+      "synonyms": ["530"],
+      "category": "Miscellaneous - Alkalis",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Ferrocyanide",
+      "synonyms": ["535"],
+      "category": "Miscellaneous - other Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Ferrocyanide",
+      "synonyms": ["536"],
+      "category": "Miscellaneous - other Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Dicalcium Ferrocyanide",
+      "synonyms": ["540"],
+      "category": "Miscellaneous - other Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Aluminium Phosphate",
+      "synonyms": ["541"],
+      "category": "Miscellaneous - other Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Edible Bone Phosphate (Bone-Meal)",
+      "synonyms": ["542"],
+      "category": "Miscellaneous - Anti-Caking Agents",
+      "status": "haram",
+      "condition": "",
+      "description": "Haraam if the bones from pig"
+    },
+    {
+      "name": "Calcium Polyphosphates",
+      "synonyms": ["544"],
+      "category": "Miscellaneous - Anti-Caking Agents",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pig bones"
+    },
+    {
+      "name": "Ammonium Polyphosphates",
+      "synonyms": ["545"],
+      "category": "Miscellaneous - Anti-Caking Agents",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Silicon Dioxide (Silica Salt)",
+      "synonyms": ["551"],
+      "category": "Miscellaneous - Silicon Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Silicate",
+      "synonyms": ["552"],
+      "category": "Miscellaneous - Silicon Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Magnesium Silicate / Magnesium Trisilicate (Talc)",
+      "synonyms": ["553"],
+      "category": "Miscellaneous - Silicon Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Aluminium Sodium Silicate",
+      "synonyms": ["554"],
+      "category": "Miscellaneous - Silicon Salts",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Aluminium Calcium Silicate",
+      "synonyms": ["556"],
+      "category": "Miscellaneous - Silicon Salts",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if calcium from pig bones"
+    },
+    {
+      "name": "Bentonite",
+      "synonyms": ["558"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Kaolin (Aluminium Silicate)",
+      "synonyms": ["559"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Stearic Acid",
+      "synonyms": ["570"],
+      "category": "Miscellaneous - other compounds",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Magnesium Stearate",
+      "synonyms": ["572"],
+      "category": "Miscellaneous - other compounds",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat"
+    },
+    {
+      "name": "Glucono Delta-Lactone",
+      "synonyms": ["575"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Sodium Gluconate",
+      "synonyms": ["576"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Potassium Gluconate",
+      "synonyms": ["577"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Calcium Gluconate",
+      "synonyms": ["578"],
+      "category": "Miscellaneous - other compounds",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "L-Glutamic Acid",
+      "synonyms": ["620"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pig protein"
+    },
+    {
+      "name": "Monosodium Glutamate (MSG)",
+      "synonyms": ["621"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if culture media is from pork fat"
+    },
+    {
+      "name": "Monopotassium Glutamate",
+      "synonyms": ["622"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if culture media is from pork fat"
+    },
+    {
+      "name": "Calcium Glutamate",
+      "synonyms": ["623"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if culture media is from pork fat"
+    },
+    {
+      "name": "Sodium Guanylate",
+      "synonyms": ["627"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if made from brewer yeast extract (beer by-product)"
+    },
+    {
+      "name": "Sodium Inosinate",
+      "synonyms": ["631"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if extracted from pig meat or made from brewer yeast extract"
+    },
+    {
+      "name": "Sodium5-Ribonucleotide",
+      "synonyms": ["635"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "mushbooh",
+      "condition": "",
+      "description": "Combination of E627 and E631"
+    },
+    {
+      "name": "MaltoI",
+      "synonyms": ["636"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Ethyl MaltoI",
+      "synonyms": ["637"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Dimethylpolysiloxane",
+      "synonyms": ["900"],
+      "category": "Miscellaneous - Flavour Enhancers",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Beeswax",
+      "synonyms": ["901"],
+      "category": "Miscellaneous - Glazing Agents",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Carnauba Wax",
+      "synonyms": ["903"],
+      "category": "Miscellaneous - Glazing Agents",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Shellac",
+      "synonyms": ["904"],
+      "category": "Miscellaneous - Glazing Agents",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if treated with alcohol"
+    },
+    {
+      "name": "Mineral Hydrocarbons",
+      "synonyms": ["905"],
+      "category": "Miscellaneous - Glazing Agents",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Refined Microcrystalline Wax",
+      "synonyms": ["907"],
+      "category": "Miscellaneous - Glazing Agents",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from pork fat wax"
+    },
+    {
+      "name": "L-Cysteine Hydrochloride",
+      "synonyms": ["920"],
+      "category": "Miscellaneous - Compounds used to treat Flour",
+      "status": "mushbooh",
+      "condition": "Source verification required",
+      "description": "Haraam if from human hair. Controversial if from chicken/duck feathers"
+    },
+    {
+      "name": "Potassium Bromate",
+      "synonyms": ["924"],
+      "category": "Miscellaneous - Compounds used to treat Flour",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Chlorine",
+      "synonyms": ["925"],
+      "category": "Miscellaneous - Compounds used to treat Flour",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Chlorine Dioxide",
+      "synonyms": ["926"],
+      "category": "Miscellaneous - Compounds used to treat Flour",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    },
+    {
+      "name": "Azodicarbonamide",
+      "synonyms": ["927"],
+      "category": "Miscellaneous - Compounds used to treat Flour",
+      "status": "halal",
+      "condition": "",
+      "description": ""
+    }
+  ]
+}
