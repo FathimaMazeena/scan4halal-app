@@ -82,11 +82,31 @@ class Retriever:
         self.embedding_model = embedding_model
 
         # Load all DB ingredients and embeddings into memory
-        docs = list(self.collection.find({}, {"name": 1, "status": 1, "embedding": 1}))
+        # docs = list(self.collection.find({}, {"name": 1, "status": 1, "embedding": 1}))
+        docs = list(self.collection.find({}, {
+            "name": 1,
+            "status": 1,
+            "embedding": 1,
+            # 👇 add the extra fields here
+            "synonyms": 1,
+            "category": 1,
+            "description": 1
+        }))
+        # self.db_names = [d["name"] for d in docs]
+        # self.db_statuses = [d.get("status", "unknown") for d in docs]
+        # self.db_vecs = np.array([d["embedding"] for d in docs], dtype=np.float32)
+
+
+
+        # # Store all docs for reference (includes synonyms, category, description)
+        # self.db_docs = docs
+
+        self.db_docs = docs
         self.db_names = [d["name"] for d in docs]
         self.db_statuses = [d.get("status", "unknown") for d in docs]
         self.db_vecs = np.array([d["embedding"] for d in docs], dtype=np.float32)
 
+    
     def retrieve(self, ingredient: str, top_k: int = 3):
         """
         ingredient: string to search for
@@ -108,8 +128,11 @@ class Retriever:
         matches = []
         for idx in top_idx:
             matches.append({
-                "name": self.db_names[idx],
-                "status": self.db_statuses[idx],
-                "score": float(sims[idx])
+                "name": self.db_docs[idx]["name"],
+                "status": self.db_docs[idx].get("status", "unknown"),
+                "score": float(sims[idx]),
+                "synonyms": self.db_docs[idx].get("synonyms", []),
+                "category": self.db_docs[idx].get("category", ""),
+                "description": self.db_docs[idx].get("description", "")
             })
         return matches

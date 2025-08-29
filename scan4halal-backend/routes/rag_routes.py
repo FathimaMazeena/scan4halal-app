@@ -32,13 +32,16 @@ from rag.generator import ExplanationGenerator
 from pymongo import MongoClient
 import numpy as np
 from sentence_transformers import SentenceTransformer
+import os
+from dotenv import load_dotenv
 
 rag_bp = Blueprint("rag", __name__)
 
 # --- MongoDB setup ---
-client = MongoClient("mongodb+srv://fathimamazeenamycloudcubicle:QYVlulxdKT8Gh06E@scan4halalcluster0.45pcbto.mongodb.net/?retryWrites=true&w=majority&appName=Scan4HalalCluster0")
-db = client["scan4halal_db"]
-collection = db["ingredients"]
+load_dotenv()
+client = MongoClient(os.getenv("MONGO_URI"))
+db = client[os.getenv("MONGO_DB")]
+collection = db[os.getenv("MONGO_COLLECTION")]
 
 
 # Optional: Initialize embedding model if needed
@@ -75,3 +78,45 @@ def explain_ingredient():
         "explanation": explanation,
         "matches": context
     })
+
+@rag_bp.route("/chat", methods=["POST"])
+def chat_endpoint():
+    data = request.get_json()
+    query = data.get("query")
+
+    if not query:
+        return jsonify({"error": "No query provided"}), 400
+
+    # Step 1: Retrieve relevant matches from DB
+    matches = retriever.retrieve(query, top_k=1)
+
+    # If nothing is found, still provide a fallback context
+    if not matches:
+        matches = [{"name": "unknown", "status": "unknown", "score": 0.0}]
+
+    # Step 2: Use generator to craft a reply (RAG style)
+    reply = generator.generate(query, matches)
+
+    return jsonify({
+        "query": query,
+        "reply": reply,
+        "matches": matches
+        
+    })
+
+
+@rag_bp.route("/retrieve", methods=["POST"])
+def retrieve_endpoint():
+    data = request.json
+    ingredient = data.get("ingredient")
+
+    if not ingredient:
+        return jsonify({"error": "ingredient field is required"}), 400
+
+    matches = retriever.retrieve(ingredient, top_k=1)
+
+    return jsonify({
+        "ingredient": ingredient,
+        "matches": matches
+    })
+

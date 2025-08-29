@@ -6,7 +6,8 @@ import IngredientResults from "./IngredientResults";
 function Hero() {
   const [selectedImage, setSelectedImage] = useState(null);
   const [ocrText, setOcrText] = useState("");
-  const [ingredients, setIngredients] = useState([]);
+  const [scanIngredients, setScanIngredients] = useState([]);
+  const [ingredientMatches, setIngredientMatches] = useState([]);
   const [loading, setLoading] = useState(false);
 
   const handleImageChange = (e) => {
@@ -20,10 +21,43 @@ function Hero() {
       setLoading(true);
       const data = await uploadImageForOCR(selectedImage);
       setOcrText(data.raw_text || "No text extracted");
-      setIngredients(data.ingredients);
+      const ingredients = data.ingredients || [];
+      setScanIngredients(ingredients);
+      // setScanIngredients(data.ingredients);
 
       // const parsed = parseIngredients(data.extracted_text || "");
       // setIngredients(parsed);
+
+      //For each ingredient, call the /rag/retrieve API
+    //   const matchPromises = scanIngredients.map(async (ing) => {
+    //   const res = await fetch("http://localhost:5000/rag/retrieve", {
+    //     method: "POST",
+    //     headers: { "Content-Type": "application/json" },
+    //     body: JSON.stringify({ ingredient: ing }),
+    //   });
+    //   return res.json();
+    // });
+
+    const matchPromises = (data.ingredients || []).map(async (ing) => {
+        const res = await fetch("http://localhost:5000/rag/retrieve", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ ingredient: ing }),
+        });
+        return res.json();
+      });
+
+    // Wait for all retrieval results
+    const matches = await Promise.all(matchPromises);
+
+    // `matches` will be an array of results aligned with `ingredients`
+    console.log("retrieved matches", matches);
+
+    // You could also store them in state for display
+    setIngredientMatches(matches);
+
+
+
     } catch (error) {
       console.error("Upload failed", error);
       setOcrText("Error occurred while processing image");
@@ -101,8 +135,8 @@ function Hero() {
         )} */}
       </div>
 
-         {ingredients.length > 0 && (
-          <IngredientResults ingredients={ingredients} />
+         {ingredientMatches.length > 0 && (
+          <IngredientResults ingredientMatches={ingredientMatches} />
   
       )}
 
