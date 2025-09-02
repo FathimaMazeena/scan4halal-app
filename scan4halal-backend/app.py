@@ -7,13 +7,16 @@ import re
 import numpy as np
 from pymongo import MongoClient
 from routes.rag_routes import rag_bp
+from routes.ingredient_browsing_routes import ingredient_bp
+from db.connection import collection
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 app = Flask(__name__)
 CORS(app)
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer("model/ingredient_embedding_model")
 
 @app.route("/")
 def home():
@@ -56,10 +59,10 @@ def cosine_similarity(query_vecs, db_vecs):
 
 
 # Load DB connection
-client = MongoClient("mongodb+srv://fathimamazeenamycloudcubicle:QYVlulxdKT8Gh06E@scan4halalcluster0.45pcbto.mongodb.net/?retryWrites=true&w=majority&appName=Scan4HalalCluster0")
+# client = MongoClient("mongodb+srv://fathimamazeenamycloudcubicle:QYVlulxdKT8Gh06E@scan4halalcluster0.45pcbto.mongodb.net/?retryWrites=true&w=majority&appName=Scan4HalalCluster0")
 
-db = client["scan4halal_db"]
-collection = db["ingredients"]
+# db = client["scan4halal_db"]
+# collection = db["ingredients"]
 
 
 def load_db_vectors():
@@ -73,6 +76,7 @@ def load_db_vectors():
 db_names, db_statuses, db_vecs = load_db_vectors()
 
 app.register_blueprint(rag_bp, url_prefix="/rag")
+app.register_blueprint(ingredient_bp, url_prefix="/browse")
 
 @app.route('/ocr', methods=['POST'])
 def extract_ingredients():

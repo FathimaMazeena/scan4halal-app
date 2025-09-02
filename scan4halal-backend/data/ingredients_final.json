@@ -1,0 +1,4493 @@
+[
+    {
+      "id": "ENA-1101",
+      "name": "Curcumin/Turmeric",
+      "synonyms": ["E100"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if pure powder, Mushbooh if liquid solvents used, Haram if pork emulsifiers present.",
+      "typical_sources": "Turmeric (plant-derived)",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Extraction with ethanol possible for liquid forms",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "doubtful"
+      },
+      "additional_context": {
+        "E_number": "E100",
+        "common_uses": ["Food coloring", "Spices"],
+        "certifier_guidance": "IFANCA considers plant-derived curcumin as halal when in pure form"
+      }
+    },
+    {
+      "id": "ENA-1102",
+      "name": "Riboflavin (Vitamin B2)",
+      "synonyms": ["E101"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if plant-derived, Haram if from pork liver/kidney.",
+      "typical_sources": "Synthetic, yeast, animal organs",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Fermentation or extraction from animal tissues",
+      "source_type": "synthetic, microbial, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E101",
+        "common_uses": ["Cereals", "Sauces", "Energy drinks"],
+        "certifier_guidance": "Requires manufacturer confirmation of non-porcine source"
+      }
+    },
+    {
+      "id": "ENA-1103",
+      "name": "Tartrazine",
+      "synonyms": ["E102"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic (petroleum derivatives)",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Synthetic chemical process with potential solvent use",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E102",
+        "common_uses": ["Soft drinks", "Candy", "Chips"],
+        "certifier_guidance": "Dry powder is acceptable; liquid form requires solvent verification"
+      }
+    },
+    {
+      "id": "ENA-1104",
+      "name": "Quinoline Yellow",
+      "synonyms": ["E104"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (non-water solvents).",
+      "typical_sources": "Synthetic coal tar derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with organic solvents",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E104",
+        "common_uses": ["Candy", "Smoked fish", "Medications"],
+        "certifier_guidance": "Requires verification of solvent sources"
+      }
+    },
+    {
+      "id": "ENA-1105",
+      "name": "Sunset Yellow FCF",
+      "synonyms": ["E110"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic petroleum derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Azo coupling reaction with solvent carriers",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E110",
+        "common_uses": ["Orange soda", "Chips", "Jams"],
+        "certifier_guidance": "Solvent verification required for liquid forms"
+      }
+    },
+    {
+      "id": "ENA-1106",
+      "name": "Cochineal/Carminic Acid",
+      "synonyms": ["E120"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Prohibited by Hanafi Fiqh.",
+      "typical_sources": "Cochineal insects",
+      "status": "haram",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Crushed and boiled insects",
+      "source_type": "insect",
+      "certifier_rulings": {
+        "IFANCA": "haram",
+        "JAKIM": "haram"
+      },
+      "additional_context": {
+        "E_number": "E120",
+        "common_uses": ["Yogurt", "Ice cream", "Juice drinks"],
+        "certifier_guidance": "Universally considered Haram due to insect source"
+      }
+    },
+    {
+      "id": "ENA-1107",
+      "name": "Carmoisine/Azorubine",
+      "synonyms": ["E122"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic coal tar derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Azo dye synthesis with solvent carriers",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E122",
+        "common_uses": ["Jellies", "Cake decorations", "Canned fruits"],
+        "certifier_guidance": "Solvent source verification required"
+      }
+    },
+    {
+      "id": "ENA-1108",
+      "name": "Amaranth",
+      "synonyms": ["E123"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic coal tar derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with solvent systems",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E123",
+        "common_uses": ["Caviar", "Cake mixes", "Wine"],
+        "certifier_guidance": "Liquid forms require solvent verification"
+      }
+    },
+    {
+      "id": "ENA-1109",
+      "name": "Ponceau 4R",
+      "synonyms": ["E124"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic coal tar derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Azo dye synthesis with solvent carriers",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E124",
+        "common_uses": ["Salmon substitutes", "Jams", "Desserts"],
+        "certifier_guidance": "Verify solvent sources for liquid preparations"
+      }
+    },
+    {
+      "id": "ENA-1110",
+      "name": "Erythrosine BS",
+      "synonyms": ["E127"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic xanthene dye",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with iodine, potential solvent use",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E127",
+        "common_uses": ["Cherries", "Candy", "Pistachios"],
+        "certifier_guidance": "Solvent verification required for liquid forms"
+      }
+    },
+    {
+      "id": "ENA-1111",
+      "name": "Patent Blue V",
+      "synonyms": ["E131"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic triphenylmethane dye",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with solvent systems",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E131",
+        "common_uses": ["Canned peas", "Ice cream", "Beverages"],
+        "certifier_guidance": "Requires solvent source verification"
+      }
+    },
+    {
+      "id": "ENA-1112",
+      "name": "Indigo Carmine",
+      "synonyms": ["E132"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if synthetic, Haram if pork glycerin added.",
+      "typical_sources": "Synthetic indigo derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical sulfonation process, glycerin carriers",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E132",
+        "common_uses": ["Baked goods", "Candy", "Ice cream"],
+        "certifier_guidance": "Critical to verify glycerin source is plant-based"
+      }
+    },
+    {
+      "id": "ENA-1113",
+      "name": "Chlorophyll",
+      "synonyms": ["E140"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if powder or water/vegetable oil solvent used.",
+      "typical_sources": "Alfalfa, nettles, grass",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Solvent extraction from plant materials",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E140",
+        "common_uses": ["Pasta", "Dairy products", "Oils"],
+        "certifier_guidance": "Acceptable with water or vegetable oil solvents"
+      }
+    },
+    {
+      "id": "ENA-1114",
+      "name": "Copper Chlorophyll",
+      "synonyms": ["E141"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if powder or water/vegetable oil solvent used.",
+      "typical_sources": "Chlorophyll treated with copper salts",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Copper complex formation, solvent extraction",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E141",
+        "common_uses": ["Chewing gum", "Dairy desserts", "Soups"],
+        "certifier_guidance": "Water or vegetable oil solvents are acceptable"
+      }
+    },
+    {
+      "id": "ENA-1115",
+      "name": "Green S",
+      "synonyms": ["E142"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic coal tar derivative",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with solvent carriers",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E142",
+        "common_uses": ["Mint sauce", "Canned peas", "Desserts"],
+        "certifier_guidance": "Solvent source verification required"
+      }
+    },
+    {
+      "id": "ENA-1116",
+      "name": "Caramel Color",
+      "synonyms": ["E150(a-d)"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Heated carbohydrates (sugar, glucose)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Controlled heating of sugars, sometimes with additives",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E150",
+        "common_uses": ["Cola drinks", "Soy sauce", "Baked goods"],
+        "certifier_guidance": "Generally accepted as Halal across all certifications"
+      }
+    },
+    {
+      "id": "ENA-1117",
+      "name": "Black PN",
+      "synonyms": ["E151"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic azo dye",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with solvent systems",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E151",
+        "common_uses": ["Licorice", "Desserts", "Sauces"],
+        "certifier_guidance": "Solvent verification required for liquid forms"
+      }
+    },
+    {
+      "id": "ENA-1118",
+      "name": "Vegetable Carbon",
+      "synonyms": ["E153"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Charred plant materials (wood, peat, coconut shells)",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Carbonization of vegetable materials, solvent dispersion",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E153",
+        "common_uses": ["Confectionery", "Cheese rind", "Decorative foods"],
+        "certifier_guidance": "Plant source is acceptable; verify liquid solvent sources"
+      }
+    },
+    {
+      "id": "ENA-1119",
+      "name": "Carotenes",
+      "synonyms": ["E160a"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Carrots, algae, palm oil, synthetic",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Extraction with organic solvents, encapsulation",
+      "source_type": "plant, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E160a",
+        "common_uses": ["Margarine", "Juices", "Dairy products"],
+        "certifier_guidance": "Natural sources preferred; verify solvents for liquid forms"
+      }
+    },
+    {
+      "id": "ENA-1120",
+      "name": "Annatto",
+      "synonyms": ["E160b"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Seeds of the achiote tree",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Water or oil extraction from seeds",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E160b",
+        "common_uses": ["Cheese", "Butter", "Snack foods"],
+        "certifier_guidance": "Universally accepted as Halal from plant source"
+      }
+    },
+    {
+      "id": "ENA-1121",
+      "name": "Lycopene",
+      "synonyms": ["E160d"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if powder/vegetable oil, Haram if pork gelatin used.",
+      "typical_sources": "Tomatoes, watermelons, synthetic",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Extraction with solvents, potential gelatin encapsulation",
+      "source_type": "plant, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E160d",
+        "common_uses": ["Tomato products", "Beverages", "Supplements"],
+        "certifier_guidance": "Verify no porcine gelatin is used in encapsulation"
+      }
+    },
+    {
+      "id": "ENA-1122",
+      "name": "Lutein",
+      "synonyms": ["E161b"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if powder, Haram if pork gelatin/glycerin added.",
+      "typical_sources": "Marigold flowers, kale, spinach",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Solvent extraction, potential gelatin/glycerin carriers",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E161b",
+        "common_uses": ["Pasta", "Baked goods", "Supplements"],
+        "certifier_guidance": "Verify carriers are plant-based, not porcine"
+      }
+    },
+    {
+      "id": "ENA-1123",
+      "name": "Beetroot Red",
+      "synonyms": ["E162"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Beetroot juice concentrate",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Juice concentration, potential solvent use",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E162",
+        "common_uses": ["Ice cream", "Jams", "Dairy products"],
+        "certifier_guidance": "Plant source acceptable; verify liquid solvent sources"
+      }
+    },
+    {
+      "id": "ENA-1124",
+      "name": "Calcium Carbonate",
+      "synonyms": ["E170"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal if mineral-derived powder, Mushbooh if liquid form.",
+      "typical_sources": "Limestone, marble, eggshells, bones",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant, anticaking",
+      "processing_info": "Mining and purification, potential bone source",
+      "source_type": "mineral, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E170",
+        "common_uses": ["Baking powder", "Fortified flour", "Antacid"],
+        "certifier_guidance": "Verify mineral source; avoid bone-derived calcium"
+      }
+    },
+    {
+      "id": "ENA-1125",
+      "name": "Titanium Dioxide",
+      "synonyms": ["E171"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Mineral ilmenite or rutile",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Mining and chemical processing",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E171",
+        "common_uses": ["White coatings", "Sunscreen", "Confectionery"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1126",
+      "name": "Iron Oxides",
+      "synonyms": ["E172"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Natural minerals or synthetic production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Mining or chemical synthesis",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E172",
+        "common_uses": ["Food coloring", "Cosmetics", "Cement"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1127",
+      "name": "Aluminium",
+      "synonyms": ["E173"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Bauxite ore",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Electrolytic reduction process",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E173",
+        "common_uses": ["Silver decorations", "Cake decorations"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1128",
+      "name": "Silver",
+      "synonyms": ["E174"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Silver ore",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Mining and refining",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E174",
+        "common_uses": ["Cake decorations", "Confectionery"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1129",
+      "name": "Gold",
+      "synonyms": ["E175"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Always permissible.",
+      "typical_sources": "Gold ore",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Mining and refining",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E175",
+        "common_uses": ["Luxury decorations", "Confectionery", "Alcoholic drinks"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1130",
+      "name": "Lithol Rubine BK",
+      "synonyms": ["E180"],
+      "category": "E-Number Additives",
+      "sub_category": "Color",
+      "description": "Halal in dry form, Mushbooh in liquid form (verify solvents).",
+      "typical_sources": "Synthetic azo pigment",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "colorant",
+      "processing_info": "Chemical synthesis with solvent systems",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E180",
+        "common_uses": ["Sausage casings", "Cheese rind"],
+        "certifier_guidance": "Solvent verification required for liquid forms"
+      }
+    },
+
+    {
+      "id": "ENA-1201",
+      "name": "Sorbic Acid",
+      "synonyms": ["E200"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Rowan berries or synthetic production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Synthesized from ketene and crotonaldehyde",
+      "source_type": "synthetic, plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E200",
+        "common_uses": ["Cheese", "Wine", "Baked goods", "Dried fruits"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1202",
+      "name": "Sodium Sorbate",
+      "synonyms": ["E201"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of sorbic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of sorbic acid with sodium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E201",
+        "common_uses": ["Dairy products", "Baked goods", "Beverages"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1203",
+      "name": "Potassium Sorbate",
+      "synonyms": ["E202"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of sorbic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of sorbic acid with potassium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E202",
+        "common_uses": ["Wine", "Cheese", "Dried meats", "Syrups"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1204",
+      "name": "Calcium Sorbate",
+      "synonyms": ["E203"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of sorbic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of sorbic acid with calcium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E203",
+        "common_uses": ["Baked goods", "Dairy products", "Processed fruits"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1205",
+      "name": "Benzoic Acid",
+      "synonyms": ["E210"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Gum benzoin or synthetic production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Chemical synthesis from toluene or natural extraction",
+      "source_type": "synthetic, plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E210",
+        "common_uses": ["Pickles", "Salad dressings", "Fruit juices", "Margarine"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1206",
+      "name": "Sodium Benzoate",
+      "synonyms": ["E211"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of benzoic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of benzoic acid with sodium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E211",
+        "common_uses": ["Carbonated drinks", "Fruit juices", "Salad dressings"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1207",
+      "name": "Potassium Benzoate",
+      "synonyms": ["E212"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of benzoic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of benzoic acid with potassium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E212",
+        "common_uses": ["Food preservative", "Beverages", "Condiments"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1208",
+      "name": "Calcium Benzoate",
+      "synonyms": ["E213"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones.",
+      "typical_sources": "Synthetic salt of benzoic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Neutralization of benzoic acid with calcium compounds",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E213",
+        "common_uses": ["Food preservative", "Beverages"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+    {
+      "id": "ENA-1209",
+      "name": "Ethyl 4-hydroxybenzoate",
+      "synonyms": ["E214"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Haram if alcohol solvent used.",
+      "typical_sources": "Synthetic ester of benzoic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Esterification process, potential alcohol solvents",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E214",
+        "common_uses": ["Cosmetics", "Pharmaceuticals", "Food preservative"],
+        "certifier_guidance": "Verify no alcohol solvents used in processing"
+      }
+    },
+    {
+      "id": "ENA-1210",
+      "name": "Sulphur Dioxide",
+      "synonyms": ["E220"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Burning sulfur or chemical production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Burning sulfur or chemical synthesis",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E220",
+        "common_uses": ["Dried fruits", "Wine", "Fruit juices", "Potato products"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1211",
+      "name": "Sodium Sulphite",
+      "synonyms": ["E221"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Reaction of sulfur dioxide with sodium carbonate",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E221",
+        "common_uses": ["Dried fruits", "Wine", "Fruit juices"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1212",
+      "name": "Sodium Metabisulphite",
+      "synonyms": ["E223"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Reaction of sulfur dioxide with sodium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E223",
+        "common_uses": ["Wine", "Beer", "Dried fruits", "Fruit juices"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1213",
+      "name": "Potassium Metabisulphite",
+      "synonyms": ["E224"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Reaction of sulfur dioxide with potassium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E224",
+        "common_uses": ["Wine", "Beer", "Fruit preserves"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1214",
+      "name": "Calcium Sulphite",
+      "synonyms": ["E226"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Reaction of sulfur dioxide with calcium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E226",
+        "common_uses": ["Fruit juices", "Cider", "Wine"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1215",
+      "name": "Calcium Hydrogen Sulphite",
+      "synonyms": ["E227"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones.",
+      "typical_sources": "Chemical synthesis",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, antioxidant",
+      "processing_info": "Reaction of sulfur dioxide with calcium compounds",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E227",
+        "common_uses": ["Fruit preserves", "Canned vegetables", "Beverages"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+    {
+      "id": "ENA-1216",
+      "name": "Biphenyl",
+      "synonyms": ["E230"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Permissible if no alcohol solvent.",
+      "typical_sources": "Petroleum distillation or synthetic production",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Chemical synthesis, potential alcohol solvents",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E230",
+        "common_uses": ["Citrus fruit coatings", "Post-harvest treatment"],
+        "certifier_guidance": "Verify no alcohol solvents used in application"
+      }
+    },
+    {
+      "id": "ENA-1217",
+      "name": "Hexamine",
+      "synonyms": ["E239"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis from formaldehyde and ammonia",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative",
+      "processing_info": "Chemical reaction of formaldehyde with ammonia",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E239",
+        "common_uses": ["Cheese", "Fish products", "Canned foods"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1218",
+      "name": "Sodium Nitrite",
+      "synonyms": ["E250"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, color fixative",
+      "processing_info": "Chemical reaction of sodium carbonate with nitrogen oxides",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E250",
+        "common_uses": ["Cured meats", "Sausages", "Bacon", "Smoked fish"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1219",
+      "name": "Sodium Nitrate",
+      "synonyms": ["E251"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, color fixative",
+      "processing_info": "Mining from mineral deposits or chemical synthesis",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E251",
+        "common_uses": ["Cured meats", "Cheese", "Smoked fish"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1220",
+      "name": "Potassium Nitrate",
+      "synonyms": ["E252"],
+      "category": "E-Number Additives",
+      "sub_category": "Preservatives",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "preservative, color fixative",
+      "processing_info": "Mining from mineral deposits or chemical synthesis",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E252",
+        "common_uses": ["Cured meats", "Cheese", "Salt substitutes"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1301",
+      "name": "Ascorbic Acid (Vitamin C)",
+      "synonyms": ["E300"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Fruits, vegetables, or synthetic production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant, acidity_regulator",
+      "processing_info": "Fermentation from glucose or extraction from natural sources",
+      "source_type": "synthetic, plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E300",
+        "common_uses": ["Fruit juices", "Baked goods", "Cured meats", "Dairy products"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1302",
+      "name": "Sodium Ascorbate",
+      "synonyms": ["E301"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of ascorbic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant, acidity_regulator",
+      "processing_info": "Neutralization of ascorbic acid with sodium bicarbonate",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E301",
+        "common_uses": ["Cured meats", "Processed foods", "Dietary supplements"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1303",
+      "name": "Calcium Ascorbate",
+      "synonyms": ["E302"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Halal if calcium from mineral, Mushbooh if from bones.",
+      "typical_sources": "Synthetic salt of ascorbic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant, acidity_regulator",
+      "processing_info": "Neutralization of ascorbic acid with calcium compounds",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E302",
+        "common_uses": ["Dietary supplements", "Fortified foods", "Processed meats"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+    {
+      "id": "ENA-1304",
+      "name": "Ascorbyl Palmitate",
+      "synonyms": ["E304"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Haram if palmitic acid from pork fat.",
+      "typical_sources": "Ester of ascorbic acid and palmitic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Esterification process with palmitic acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E304",
+        "common_uses": ["Oils", "Fats", "Processed foods", "Cosmetics"],
+        "certifier_guidance": "Verify palmitic acid source is plant-based, not porcine"
+      }
+    },
+    {
+      "id": "ENA-1305",
+      "name": "Tocopherols",
+      "synonyms": ["E306"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Haram if from pork fat.",
+      "typical_sources": "Vegetable oils, synthetic production",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Extraction from vegetable oils or synthetic production",
+      "source_type": "plant, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E306",
+        "common_uses": ["Oils", "Cereals", "Processed foods", "Dietary supplements"],
+        "certifier_guidance": "Verify source is plant-based or synthetic, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1306",
+      "name": "Propyl Gallate",
+      "synonyms": ["E310"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic ester of gallic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Esterification of gallic acid with propanol",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E310",
+        "common_uses": ["Oils", "Fats", "Processed foods", "Cosmetics"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1307",
+      "name": "Octyl Gallate",
+      "synonyms": ["E311"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "From plant sources only.",
+      "typical_sources": "Synthetic ester of gallic acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Esterification of gallic acid with octanol",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E311",
+        "common_uses": ["Oils", "Fats", "Processed foods"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1308",
+      "name": "Butylated Hydroxyanisole (BHA)",
+      "synonyms": ["E320"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Haram if pork fat carrier used.",
+      "typical_sources": "Synthetic phenolic compound",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Chemical synthesis, often carried in fats or oils",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E320",
+        "common_uses": ["Oils", "Fats", "Processed foods", "Cosmetics"],
+        "certifier_guidance": "Verify carrier oils are plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1309",
+      "name": "Butylated Hydroxytoluene (BHT)",
+      "synonyms": ["E321"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Haram if pork fat carrier used.",
+      "typical_sources": "Synthetic phenolic compound",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "antioxidant",
+      "processing_info": "Chemical synthesis, often carried in fats or oils",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E321",
+        "common_uses": ["Oils", "Fats", "Processed foods", "Cosmetics"],
+        "certifier_guidance": "Verify carrier oils are plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1310",
+      "name": "Lecithin",
+      "synonyms": ["E322"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Halal if plant/egg-derived, Haram if from pork.",
+      "typical_sources": "Soybeans, eggs, sunflowers, animal brains",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "emulsifier, antioxidant",
+      "processing_info": "Solvent extraction from oil-bearing sources",
+      "source_type": "plant, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E322",
+        "common_uses": ["Chocolate", "Margarine", "Baked goods", "Instant foods"],
+        "certifier_guidance": "Soy and sunflower lecithin are generally Halal. Must avoid porcine sources."
+      }
+    },
+    {
+      "id": "ENA-1311",
+      "name": "Sodium Lactate",
+      "synonyms": ["E325"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Halal if lactic acid non-dairy.",
+      "typical_sources": "Synthetic or fermentation production",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, humectant",
+      "processing_info": "Neutralization of lactic acid with sodium hydroxide",
+      "source_type": "synthetic, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E325",
+        "common_uses": ["Meat products", "Cheese", "Baked goods", "Salad dressings"],
+        "certifier_guidance": "Verify lactic acid source is non-dairy (microbial fermentation)"
+      }
+    },
+    {
+      "id": "ENA-1312",
+      "name": "Citric Acid",
+      "synonyms": ["E330"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Citrus fruits or microbial fermentation",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, preservative",
+      "processing_info": "Extraction from citrus or fermentation from sugars",
+      "source_type": "plant, microbial",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E330",
+        "common_uses": ["Soft drinks", "Jams", "Canned foods", "Dairy products"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1313",
+      "name": "Sodium Citrate",
+      "synonyms": ["E331"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic salt of citric acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, emulsifier",
+      "processing_info": "Neutralization of citric acid with sodium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E331",
+        "common_uses": ["Processed cheese", "Beverages", "Jams", "Meat products"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1314",
+      "name": "Calcium Citrate",
+      "synonyms": ["E333"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Halal if calcium not from bones.",
+      "typical_sources": "Synthetic salt of citric acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, firming_agent",
+      "processing_info": "Neutralization of citric acid with calcium compounds",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E333",
+        "common_uses": ["Processed foods", "Dietary supplements", "Baked goods"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+    {
+      "id": "ENA-1315",
+      "name": "Tartaric Acid",
+      "synonyms": ["E334"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Haram if wine by-product.",
+      "typical_sources": "Grapes, tamarinds, or wine production by-products",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator",
+      "processing_info": "Extraction from fruits or wine production residues",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E334",
+        "common_uses": ["Baking powder", "Soft drinks", "Candy", "Wine"],
+        "certifier_guidance": "Verify source is from fruits, not wine production by-products"
+      }
+    },
+    {
+      "id": "ENA-1316",
+      "name": "Phosphoric Acid",
+      "synonyms": ["E338"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Mineral rocks or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator",
+      "processing_info": "Treatment of phosphate rocks with acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E338",
+        "common_uses": ["Cola drinks", "Processed cheeses", "Jams", "Meat products"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1317",
+      "name": "Sodium Phosphate",
+      "synonyms": ["E339"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis from phosphoric acid",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, emulsifier",
+      "processing_info": "Neutralization of phosphoric acid with sodium hydroxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E339",
+        "common_uses": ["Processed cheeses", "Meat products", "Baked goods"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1318",
+      "name": "Calcium Phosphate",
+      "synonyms": ["E341"],
+      "category": "E-Number Additives",
+      "sub_category": "Antioxidants and Acidity Regulators",
+      "description": "Halal if calcium from mineral.",
+      "typical_sources": "Mineral rocks or chemical synthesis",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, firming_agent",
+      "processing_info": "Mining from mineral deposits or chemical synthesis",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E341",
+        "common_uses": ["Baking powder", "Fortified flour", "Dietary supplements"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+
+    {
+      "id": "ENA-1401",
+      "name": "Alginic Acid",
+      "synonyms": ["E400"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Brown seaweed (kelp)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction from brown algae using alkaline solutions",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E400",
+        "common_uses": ["Ice cream", "Yogurt", "Sauces", "Dressings"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1402",
+      "name": "Sodium Alginate",
+      "synonyms": ["E401"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Brown seaweed (kelp)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction and conversion to sodium salt",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E401",
+        "common_uses": ["Desserts", "Fruit fillings", "Processed cheeses"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1403",
+      "name": "Potassium Alginate",
+      "synonyms": ["E402"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Brown seaweed (kelp)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction and conversion to potassium salt",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E402",
+        "common_uses": ["Dairy products", "Desserts", "Fruit preparations"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1404",
+      "name": "Ammonium Alginate",
+      "synonyms": ["E403"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Brown seaweed (kelp)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction and conversion to ammonium salt",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E403",
+        "common_uses": ["Baked goods", "Desserts", "Processed foods"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1405",
+      "name": "Calcium Alginate",
+      "synonyms": ["E404"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Halal if calcium source from mineral.",
+      "typical_sources": "Brown seaweed with calcium compounds",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction and conversion with calcium compounds",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E404",
+        "common_uses": ["Dessert gels", "Fruit preparations", "Dairy products"],
+        "certifier_guidance": "Verify calcium source is mineral-based, not bone-derived"
+      }
+    },
+    {
+      "id": "ENA-1406",
+      "name": "Propylene Glycol Alginate",
+      "synonyms": ["E405"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Brown seaweed derivative",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer, emulsifier",
+      "processing_info": "Esterification of alginic acid with propylene glycol",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E405",
+        "common_uses": ["Salad dressings", "Sauces", "Beer foam stabilizer"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1407",
+      "name": "Agar",
+      "synonyms": ["E406"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Red seaweed",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, gelling_agent",
+      "processing_info": "Extraction from red algae using hot water",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E406",
+        "common_uses": ["Desserts", "Jams", "Ice cream", "Canned meats"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1408",
+      "name": "Carrageenan",
+      "synonyms": ["E407"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Red seaweed",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction from red algae using alkaline solutions",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E407",
+        "common_uses": ["Dairy products", "Desserts", "Meat products", "Toothpaste"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1409",
+      "name": "Locust Bean Gum",
+      "synonyms": ["E410"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Carob tree seeds",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction from carob seeds",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E410",
+        "common_uses": ["Ice cream", "Sauces", "Baked goods", "Processed cheeses"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1410",
+      "name": "Guar Gum",
+      "synonyms": ["E412"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Guar bean seeds",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Extraction from guar beans",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E412",
+        "common_uses": ["Ice cream", "Sauces", "Baked goods", "Gluten-free products"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1411",
+      "name": "Gum Arabic",
+      "synonyms": ["E414"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Acacia tree sap",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer, emulsifier",
+      "processing_info": "Collection and purification of acacia tree exudate",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E414",
+        "common_uses": ["Soft drinks", "Confectionery", "Ice cream", "Pharmaceuticals"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1412",
+      "name": "Xanthan Gum",
+      "synonyms": ["E415"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Bacterial fermentation (Xanthomonas campestris)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, stabilizer",
+      "processing_info": "Microbial fermentation of carbohydrates",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E415",
+        "common_uses": ["Salad dressings", "Sauces", "Gluten-free products", "Ice cream"],
+        "certifier_guidance": "Microbial-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1413",
+      "name": "Sorbitol",
+      "synonyms": ["E420"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Corn syrup, fruits, berries",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "sweetener, humectant",
+      "processing_info": "Hydrogenation of glucose",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E420",
+        "common_uses": ["Sugar-free products", "Chewing gum", "Baked goods", "Pharmaceuticals"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1414",
+      "name": "Glycerol/Glycerin",
+      "synonyms": ["E422"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Haram if from pork fat.",
+      "typical_sources": "Vegetable oils, animal fats",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "humectant, sweetener",
+      "processing_info": "Hydrolysis of fats and oils",
+      "source_type": "plant, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E422",
+        "common_uses": ["Baked goods", "Fondant", "Liqueurs", "Pharmaceuticals"],
+        "certifier_guidance": "Verify source is plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1415",
+      "name": "Pectin",
+      "synonyms": ["E440a"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Fruits (apples, citrus peels)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "gelling_agent, thickener",
+      "processing_info": "Extraction from fruit peels using acid",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E440a",
+        "common_uses": ["Jams", "Jellies", "Fruit preparations", "Yogurt"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1416",
+      "name": "Microcrystalline Cellulose",
+      "synonyms": ["E460"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Wood pulp, cotton",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "anti-caking_agent, bulking_agent",
+      "processing_info": "Acid hydrolysis of cellulose",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E460",
+        "common_uses": ["Grated cheese", "Spice mixes", "Diet foods", "Pharmaceuticals"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1417",
+      "name": "Methylcellulose",
+      "synonyms": ["E461"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Always permissible.",
+      "typical_sources": "Wood pulp, cotton",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "thickener, emulsifier",
+      "processing_info": "Chemical modification of cellulose",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E461",
+        "common_uses": ["Ice cream", "Sauces", "Vegetarian products", "Pharmaceuticals"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1418",
+      "name": "Sodium Stearoyl Lactylate",
+      "synonyms": ["E481"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Haram if from pork fat.",
+      "typical_sources": "Lactic acid and stearic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "emulsifier, stabilizer",
+      "processing_info": "Esterification of lactic acid with stearic acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E481",
+        "common_uses": ["Baked goods", "Processed meats", "Dairy products"],
+        "certifier_guidance": "Verify stearic acid source is plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1419",
+      "name": "Calcium Stearoyl Lactylate",
+      "synonyms": ["E482"],
+      "category": "E-Number Additives",
+      "sub_category": "Thickeners, Stabilizers, and Emulsifiers",
+      "description": "Haram if from pork fat.",
+      "typical_sources": "Lactic acid and stearic acid",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "emulsifier, stabilizer",
+      "processing_info": "Esterification of lactic acid with stearic acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E482",
+        "common_uses": ["Baked goods", "Desserts", "Processed foods"],
+        "certifier_guidance": "Verify stearic acid source is plant-based, not animal-derived"
+      }
+    },
+
+    {
+      "id": "ENA-1501",
+      "name": "Sodium Carbonate",
+      "synonyms": ["E500"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (trona) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, raising_agent",
+      "processing_info": "Mining from natural deposits or Solvay process synthesis",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E500",
+        "common_uses": ["Baking powder", "Noodles", "Pretzels", "Water treatment"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1502",
+      "name": "Sodium Bicarbonate",
+      "synonyms": ["E500ii", "Baking Soda"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis from sodium carbonate",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, raising_agent",
+      "processing_info": "Reaction of sodium carbonate with carbon dioxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E500ii",
+        "common_uses": ["Baked goods", "Effervescent drinks", "Fire extinguishers", "Toothpaste"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1503",
+      "name": "Potassium Carbonate",
+      "synonyms": ["E501"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, stabilizer",
+      "processing_info": "Electrolysis of potassium chloride solution",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E501",
+        "common_uses": ["Cocoa products", "Potash fertilizers", "Glass production"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1504",
+      "name": "Ammonium Carbonate",
+      "synonyms": ["E503"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, raising_agent",
+      "processing_info": "Reaction of ammonium sulfate with calcium carbonate",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E503",
+        "common_uses": ["Flat baked goods", "Crackers", "Smelling salts"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1505",
+      "name": "Magnesium Carbonate",
+      "synonyms": ["E504"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (magnesite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, anti-caking_agent",
+      "processing_info": "Mining or precipitation from magnesium salts",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E504",
+        "common_uses": ["Table salt anti-caking", "Sports chalk", "Antacids", "Food supplements"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1506",
+      "name": "Hydrochloric Acid",
+      "synonyms": ["E507"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator",
+      "processing_info": "Reaction of hydrogen and chlorine gases",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E507",
+        "common_uses": ["pH adjustment", "Corn syrup production", "Gelatin production", "Water treatment"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1507",
+      "name": "Potassium Chloride",
+      "synonyms": ["E508"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (sylvite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, salt_substitute",
+      "processing_info": "Mining or reaction of potassium hydroxide with hydrochloric acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E508",
+        "common_uses": ["Salt substitutes", "Low-sodium products", "Fertilizers", "Medical IV fluids"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1508",
+      "name": "Calcium Chloride",
+      "synonyms": ["E509"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural brines or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "firming_agent, electrolyte",
+      "processing_info": "Extraction from brines or reaction of calcium carbonate with hydrochloric acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E509",
+        "common_uses": ["Canned vegetables", "Cheese making", "Sports drinks", "De-icing agent"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1509",
+      "name": "Ammonium Chloride",
+      "synonyms": ["E510"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, dough_strengthener",
+      "processing_info": "Reaction of ammonia with hydrochloric acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E510",
+        "common_uses": ["Licorice candy", "Yeast nutrient", "Batteries", "Fertilizers"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1510",
+      "name": "Sulphuric Acid",
+      "synonyms": ["E513"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator",
+      "processing_info": "Contact process from sulfur dioxide",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E513",
+        "common_uses": ["pH adjustment", "Corn syrup production", "Battery acid", "Fertilizers"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1511",
+      "name": "Sodium Sulphate",
+      "synonyms": ["E514"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (mirabilite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator",
+      "processing_info": "Mining or reaction of sodium chloride with sulfuric acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E514",
+        "common_uses": ["Caramel production", "Detergents", "Glass manufacturing", "Textiles"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1512",
+      "name": "Potassium Sulphate",
+      "synonyms": ["E515"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (arcanite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, salt_substitute",
+      "processing_info": "Mining or reaction of potassium chloride with sulfuric acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E515",
+        "common_uses": ["Fertilizers", "Salt substitutes", "Brewing", "Glass production"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1513",
+      "name": "Calcium Sulphate",
+      "synonyms": ["E516", "Gypsum"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (gypsum)",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "firming_agent, dough_conditioner",
+      "processing_info": "Mining and purification of gypsum",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E516",
+        "common_uses": ["Tofu coagulant", "Baked goods", "Beer brewing", "Construction materials"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1514",
+      "name": "Magnesium Sulphate",
+      "synonyms": ["E518", "Epsom Salt"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (epsomite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "firming_agent, nutrient",
+      "processing_info": "Mining or reaction of magnesium oxide with sulfuric acid",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E518",
+        "common_uses": ["Tofu coagulant", "Brewing salt", "Bath salts", "Agriculture"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1515",
+      "name": "Sodium Hydroxide",
+      "synonyms": ["E524", "Lye"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, processing_aid",
+      "processing_info": "Electrolysis of sodium chloride solution",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E524",
+        "common_uses": ["Pretzel baking", "Olive curing", "Soap making", "Drain cleaner"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1516",
+      "name": "Potassium Hydroxide",
+      "synonyms": ["E525"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, processing_aid",
+      "processing_info": "Electrolysis of potassium chloride solution",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E525",
+        "common_uses": ["Chocolate processing", "Soap making", "Batteries", "Food processing"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1517",
+      "name": "Calcium Hydroxide",
+      "synonyms": ["E526", "Slaked Lime"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical reaction of calcium oxide with water",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, firming_agent",
+      "processing_info": "Hydration of quicklime (calcium oxide)",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E526",
+        "common_uses": ["Corn tortillas", "Pickling", "Sugar refining", "Water treatment"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1518",
+      "name": "Ammonium Hydroxide",
+      "synonyms": ["E527", "Ammonia Water"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, processing_aid",
+      "processing_info": "Dissolution of ammonia gas in water",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E527",
+        "common_uses": ["Cocoa processing", "Caramel coloring", "Cleaning products", "Fertilizers"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1519",
+      "name": "Magnesium Hydroxide",
+      "synonyms": ["E528"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Natural mineral (brucite) or chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, anti-caking_agent",
+      "processing_info": "Mining or precipitation from magnesium salts",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E528",
+        "common_uses": ["Antacids", "Tofu coagulant", "Wastewater treatment", "Fire retardant"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1520",
+      "name": "Calcium Oxide",
+      "synonyms": ["E529", "Quicklime"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Heating of limestone",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, processing_aid",
+      "processing_info": "Thermal decomposition of limestone",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E529",
+        "common_uses": ["Sugar refining", "Steel production", "Water treatment", "Construction"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1521",
+      "name": "Magnesium Oxide",
+      "synonyms": ["E530"],
+      "category": "E-Number Additives",
+      "sub_category": "Acidity Regulators and Anti-caking Agents",
+      "description": "Always permissible.",
+      "typical_sources": "Heating of magnesium carbonate",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "acidity_regulator, anti-caking_agent",
+      "processing_info": "Thermal decomposition of magnesium carbonate",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E530",
+        "common_uses": ["Cocoa powder", "Table salt", "Antacids", "Nutritional supplements"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+
+    {
+      "id": "ENA-1601",
+      "name": "L-Glutamic Acid",
+      "synonyms": ["E620"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if from plant protein, Haram if from pig protein.",
+      "typical_sources": "Fermentation of carbohydrates, plant proteins, animal proteins",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation or hydrolysis of proteins",
+      "source_type": "microbial, plant, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E620",
+        "common_uses": ["Processed foods", "Seasonings", "Sauces", "Snack foods"],
+        "certifier_guidance": "Verify source is plant-based or microbial fermentation, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1602",
+      "name": "Monosodium Glutamate (MSG)",
+      "synonyms": ["E621"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if all ingredients including culture media from Halal source, Haram if media is from pork fat.",
+      "typical_sources": "Fermentation of molasses, sugar beets, or sugarcane",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation with potential animal-derived nutrients",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E621",
+        "common_uses": ["Processed foods", "Restaurant foods", "Snack foods", "Seasonings"],
+        "certifier_guidance": "Verify fermentation media is plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1603",
+      "name": "Monopotassium Glutamate",
+      "synonyms": ["E622"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if all ingredients including culture media from Halal source, Haram if media is from pork fat.",
+      "typical_sources": "Fermentation process similar to MSG",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation with potassium neutralization",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E622",
+        "common_uses": ["Low-sodium foods", "Seasonings", "Processed meats"],
+        "certifier_guidance": "Verify fermentation media is plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1604",
+      "name": "Calcium Glutamate",
+      "synonyms": ["E623"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if all ingredients including culture media from Halal source, Haram if media is from pork fat.",
+      "typical_sources": "Fermentation process with calcium neutralization",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation with calcium compounds",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E623",
+        "common_uses": ["Dietary supplements", "Processed foods", "Calcium-fortified products"],
+        "certifier_guidance": "Verify fermentation media is plant-based and calcium source is mineral"
+      }
+    },
+    {
+      "id": "ENA-1605",
+      "name": "Monoammonium Glutamate",
+      "synonyms": ["E624"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if all ingredients including culture media from Halal source, Haram if media is from pork fat.",
+      "typical_sources": "Fermentation process with ammonium neutralization",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation with ammonium compounds",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E624",
+        "common_uses": ["Seasonings", "Processed foods", "Fertilizers"],
+        "certifier_guidance": "Verify fermentation media is plant-based, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1606",
+      "name": "Magnesium Glutamate",
+      "synonyms": ["E625"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if all ingredients including culture media from Halal source, Haram if media is from pork fat.",
+      "typical_sources": "Fermentation process with magnesium neutralization",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Microbial fermentation with magnesium compounds",
+      "source_type": "microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E625",
+        "common_uses": ["Dietary supplements", "Processed foods", "Magnesium-fortified products"],
+        "certifier_guidance": "Verify fermentation media is plant-based and magnesium source is mineral"
+      }
+    },
+    {
+      "id": "ENA-1607",
+      "name": "Sodium Guanylate",
+      "synonyms": ["E627"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines or baker's yeast extract. Mushbooh if made from brewer yeast extract, a by-product of beer making.",
+      "typical_sources": "Fish, yeast extract, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from fish or yeast, or microbial fermentation",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E627",
+        "common_uses": ["Instant noodles", "Snack foods", "Processed meats", "Seasonings"],
+        "certifier_guidance": "Verify source is plant-based yeast or fish (non-porcine), not brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1608",
+      "name": "Potassium Guanylate",
+      "synonyms": ["E628"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines or baker's yeast extract. Mushbooh if made from brewer yeast extract, a by-product of beer making.",
+      "typical_sources": "Fish, yeast extract, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from fish or yeast with potassium neutralization",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E628",
+        "common_uses": ["Low-sodium foods", "Seasonings", "Processed foods"],
+        "certifier_guidance": "Verify source is plant-based yeast or fish (non-porcine), not brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1609",
+      "name": "Calcium Guanylate",
+      "synonyms": ["E629"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines or baker's yeast extract. Mushbooh if made from brewer yeast extract, a by-product of beer making.",
+      "typical_sources": "Fish, yeast extract, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from fish or yeast with calcium neutralization",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E629",
+        "common_uses": ["Calcium-fortified foods", "Seasonings", "Processed foods"],
+        "certifier_guidance": "Verify source is plant-based yeast or fish (non-porcine), not brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1610",
+      "name": "Sodium Inosinate",
+      "synonyms": ["E631"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines. Mushbooh if made from brewer yeast extract, a by-product of beer making. Haram if extracted from pig meat.",
+      "typical_sources": "Fish, meat extracts, yeast, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from animal tissues or microbial fermentation",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E631",
+        "common_uses": ["Instant noodles", "Snack foods", "Processed meats", "Seasonings"],
+        "certifier_guidance": "Verify source is fish-based or plant-based yeast, not animal meat or brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1611",
+      "name": "Potassium Inosinate",
+      "synonyms": ["E632"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines. Mushbooh if made from brewer yeast extract, a by-product of beer making. Haram if extracted from pig meat.",
+      "typical_sources": "Fish, meat extracts, yeast, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from animal tissues or microbial fermentation with potassium neutralization",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E632",
+        "common_uses": ["Low-sodium foods", "Seasonings", "Processed foods"],
+        "certifier_guidance": "Verify source is fish-based or plant-based yeast, not animal meat or brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1612",
+      "name": "Calcium Inosinate",
+      "synonyms": ["E633"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Halal if obtained from sardines. Mushbooh if made from brewer yeast extract, a by-product of beer making. Haram if extracted from pig meat.",
+      "typical_sources": "Fish, meat extracts, yeast, microbial fermentation",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from animal tissues or microbial fermentation with calcium neutralization",
+      "source_type": "animal, microbial",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E633",
+        "common_uses": ["Calcium-fortified foods", "Seasonings", "Processed foods"],
+        "certifier_guidance": "Verify source is fish-based or plant-based yeast, not animal meat or brewer's yeast"
+      }
+    },
+    {
+      "id": "ENA-1613",
+      "name": "Sodium 5'-Ribonucleotide",
+      "synonyms": ["E635"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, it is a combination of E627 and E631.",
+      "typical_sources": "Combination of sodium guanylate and sodium inosinate",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Blend of disodium guanylate and disodium inosinate",
+      "source_type": "variable",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E635",
+        "common_uses": ["Instant noodles", "Snack foods", "Processed meats", "Seasonings"],
+        "certifier_guidance": "Verify both components are from Halal sources (fish or plant-based yeast)"
+      }
+    },
+    {
+      "id": "ENA-1614",
+      "name": "Maltol",
+      "synonyms": ["E636"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Always permissible.",
+      "typical_sources": "Natural occurrence in roasted malt, pine needles, or synthetic production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Extraction from natural sources or chemical synthesis",
+      "source_type": "plant, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E636",
+        "common_uses": ["Baked goods", "Chocolate", "Vanilla flavors", "Beverages"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1615",
+      "name": "Ethyl Maltol",
+      "synonyms": ["E637"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic derivative of maltol",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer",
+      "processing_info": "Chemical synthesis from maltol",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E637",
+        "common_uses": ["Fruit flavors", "Caramel flavors", "Baked goods", "Beverages"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1616",
+      "name": "Glycine",
+      "synonyms": ["E640"],
+      "category": "E-Number Additives",
+      "sub_category": "Flavor Enhancers",
+      "description": "Mushbooh, Halal if synthetic or plant-derived, Haram if from animal sources.",
+      "typical_sources": "Synthetic production, gelatin hydrolysis, plant proteins",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flavor_enhancer, amino_acid",
+      "processing_info": "Chemical synthesis or hydrolysis of proteins",
+      "source_type": "synthetic, plant, animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E640",
+        "common_uses": ["Seasonings", "Processed meats", "Dietary supplements", "Animal feed"],
+        "certifier_guidance": "Verify source is synthetic or plant-based, not animal-derived"
+      }
+    },
+
+    {
+      "id": "ENA-1701",
+      "name": "Dimethylpolysiloxane",
+      "synonyms": ["E900"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic silicone polymer",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "anti-foaming_agent",
+      "processing_info": "Chemical synthesis from silicon and methyl chloride",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E900",
+        "common_uses": ["Cooking oils", "Deep frying", "Fast food", "Processed foods"],
+        "certifier_guidance": "Synthetic and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1702",
+      "name": "Beeswax",
+      "synonyms": ["E901"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Honeybee secretions",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "glazing_agent, carrier",
+      "processing_info": "Collection and purification from bee hives",
+      "source_type": "insect",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E901",
+        "common_uses": ["Confectionery", "Fruit coatings", "Cosmetics", "Candles"],
+        "certifier_guidance": "Generally accepted as Halal despite insect origin"
+      }
+    },
+    {
+      "id": "ENA-1703",
+      "name": "Carnauba Wax",
+      "synonyms": ["E903"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Leaves of carnauba palm",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "glazing_agent, coating",
+      "processing_info": "Collection and purification from palm leaves",
+      "source_type": "plant",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E903",
+        "common_uses": ["Confectionery", "Fruit coatings", "Dental floss", "Car wax"],
+        "certifier_guidance": "Plant-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1704",
+      "name": "Shellac",
+      "synonyms": ["E904"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Haram if alcohol-treated.",
+      "typical_sources": "Resin secreted by lac insects",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "glazing_agent, coating",
+      "processing_info": "Collection and processing with potential alcohol solvents",
+      "source_type": "insect",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E904",
+        "common_uses": ["Confectionery", "Fruit coatings", "Pharmaceuticals", "Furniture polish"],
+        "certifier_guidance": "Verify no alcohol solvents used in processing"
+      }
+    },
+    {
+      "id": "ENA-1705",
+      "name": "Mineral Hydrocarbons",
+      "synonyms": ["E905"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Petroleum distillation",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "glazing_agent, coating",
+      "processing_info": "Refining of petroleum products",
+      "source_type": "mineral",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E905",
+        "common_uses": ["Fruit coatings", "Chewing gum", "Food packaging", "Cosmetics"],
+        "certifier_guidance": "Mineral-based and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1706",
+      "name": "Refined Microcrystalline Wax",
+      "synonyms": ["E907"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Mushbooh, Halal if obtained from plant fat wax. Haram if obtained from pork fat wax.",
+      "typical_sources": "Petroleum or synthetic sources",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "glazing_agent, coating",
+      "processing_info": "Refining of petroleum or synthetic production",
+      "source_type": "mineral, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "E_number": "E907",
+        "common_uses": ["Confectionery", "Fruit coatings", "Chewing gum", "Cosmetics"],
+        "certifier_guidance": "Verify source is petroleum or synthetic, not animal-derived"
+      }
+    },
+    {
+      "id": "ENA-1707",
+      "name": "L-Cysteine Hydrochloride",
+      "synonyms": ["E920"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Haram if from human hair/pork, Mushbooh if from feathers.",
+      "typical_sources": "Human hair, poultry feathers, synthetic production",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "flour_improver, dough_conditioner",
+      "processing_info": "Hydrolysis of keratin proteins from various sources",
+      "source_type": "human, animal, synthetic",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "haram"
+      },
+      "additional_context": {
+        "E_number": "E920",
+        "common_uses": ["Bread", "Baked goods", "Flour products"],
+        "certifier_guidance": "Synthetic is Halal. Feather-derived is debated. Hair-derived is Haram."
+      }
+    },
+    {
+      "id": "ENA-1708",
+      "name": "Potassium Bromate",
+      "synonyms": ["E924"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flour_improver, dough_conditioner",
+      "processing_info": "Reaction of potassium hydroxide with bromic acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E924",
+        "common_uses": ["Flour treatment", "Bread making", "Baked goods"],
+        "certifier_guidance": "Universally accepted as Halal (though banned in some countries for health reasons)"
+      }
+    },
+    {
+      "id": "ENA-1709",
+      "name": "Chlorine",
+      "synonyms": ["E925"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Electrolysis of salt water",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flour_bleaching_agent, water_treatment",
+      "processing_info": "Electrolytic production from sodium chloride",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E925",
+        "common_uses": ["Flour bleaching", "Water treatment", "Disinfectant"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1710",
+      "name": "Chlorine Dioxide",
+      "synonyms": ["E926"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flour_bleaching_agent, disinfectant",
+      "processing_info": "Reaction of sodium chlorite with acid",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E926",
+        "common_uses": ["Flour treatment", "Water treatment", "Disinfectant"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1711",
+      "name": "Azodicarbonamide",
+      "synonyms": ["E927"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Chemical synthesis",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "flour_improver, bleaching_agent",
+      "processing_info": "Reaction of hydrazine with urea",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E927",
+        "common_uses": ["Flour bleaching", "Bread making", "Plastic foaming agent"],
+        "certifier_guidance": "Universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1712",
+      "name": "Aspartame",
+      "synonyms": ["E951"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic dipeptide",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "sweetener",
+      "processing_info": "Chemical synthesis from aspartic acid and phenylalanine",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E951",
+        "common_uses": ["Diet drinks", "Sugar-free products", "Chewing gum", "Pharmaceuticals"],
+        "certifier_guidance": "Synthetic and universally accepted as Halal"
+      }
+    },
+    {
+      "id": "ENA-1713",
+      "name": "Neotame",
+      "synonyms": ["E961"],
+      "category": "E-Number Additives",
+      "sub_category": "Miscellaneous Additives",
+      "description": "Always permissible.",
+      "typical_sources": "Synthetic derivative of aspartame",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "sweetener",
+      "processing_info": "Chemical modification of aspartame",
+      "source_type": "synthetic",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "E_number": "E961",
+        "common_uses": ["Diet products", "Baked goods", "Beverages", "Dairy products"],
+        "certifier_guidance": "Synthetic and universally accepted as Halal"
+      }
+    },
+    
+    {
+      "id": "NOI-2101",
+      "name": "Chicken Breast",
+      "synonyms": ["Chicken", "Poultry Breast"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Lean, boneless cut from organic, free-range chickens raised without antibiotics or hormones.",
+      "typical_sources": "Organic chickens",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; no artificial additives or preservatives",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Grilling", "Roasting", "Stir-fries", "Salads"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered by Muslim with Bismillah. Organic certification must include halal practices."
+      }
+    },
+    {
+      "id": "NOI-2102",
+      "name": "Ground Beef",
+      "synonyms": ["Minced Beef", "Hamburger Meat"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Finely chopped beef from organically raised, grass-fed cattle.",
+      "typical_sources": "Organic cattle",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "red_meat",
+      "processing_info": "Zabiha slaughter required; grinding process with no additives",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Burgers", "Meatballs", "Tacos", "Pasta sauces"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Requires Zabiha slaughter and verification of organic feed that is free from animal by-products."
+      }
+    },
+    {
+      "id": "NOI-2103",
+      "name": "Lamb Chops",
+      "synonyms": ["Lamb Ribs", "Lamb Cutlets"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Tender cuts from organic, pasture-raised lambs, known for rich flavor.",
+      "typical_sources": "Organic lambs",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "red_meat",
+      "processing_info": "Zabiha slaughter required; natural aging process",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Grilling", "Roasting", "Stews", "Special occasions"],
+        "geographic_origin": ["New Zealand", "Australia", "Middle East", "Global"],
+        "certifier_guidance": "Halal when Zabiha slaughtered. Popular in Middle Eastern and South Asian cuisines."
+      }
+    },
+    {
+      "id": "NOI-2104",
+      "name": "Turkey Breast",
+      "synonyms": ["Turkey", "Turkey Fillets"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Lean, white meat from organically raised turkeys, free from antibiotics.",
+      "typical_sources": "Organic turkeys",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; minimal processing",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Roasting", "Sandwiches", "Salads", "Thanksgiving meals"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered. Verify no cross-contamination with non-halal processing equipment."
+      }
+    },
+    {
+      "id": "NOI-2105",
+      "name": "Beef Steak",
+      "synonyms": ["Steak", "Beef Cut"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Premium cuts from grass-fed, organically raised cattle, various cuts available.",
+      "typical_sources": "Organic cattle",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "red_meat",
+      "processing_info": "Zabiha slaughter required; dry-aged or vacuum-sealed",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Grilling", "Pan-searing", "Roasting", "Fine dining"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Requires Zabiha slaughter. Aging process must not involve non-halal substances."
+      }
+    },
+    {
+      "id": "NOI-2106",
+      "name": "Chicken Thighs",
+      "synonyms": ["Dark Meat Chicken", "Chicken Legs"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Juicy, flavorful cuts from organic chickens, higher fat content than breast meat.",
+      "typical_sources": "Organic chickens",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; may be bone-in or boneless",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Braising", "Grilling", "Curries", "Stews"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered. Popular in various cultural cuisines for its flavor."
+      }
+    },
+    {
+      "id": "NOI-2107",
+      "name": "Ground Turkey",
+      "synonyms": ["Minced Turkey", "Turkey Mince"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Lean alternative to ground beef, from organically raised turkeys.",
+      "typical_sources": "Organic turkeys",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; grinding process with no additives",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Burgers", "Meat sauces", "Tacos", "Meatloaf"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Requires Zabiha slaughter. Lower fat content makes it popular for health-conscious consumers."
+      }
+    },
+    {
+      "id": "NOI-2108",
+      "name": "Duck Breast",
+      "synonyms": ["Duck", "Duck Magret"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Rich, flavorful meat from organically raised ducks, known for its distinctive taste.",
+      "typical_sources": "Organic ducks",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; often scored for fat rendering",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Pan-searing", "Confit", "Asian cuisine", "Gourmet dishes"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered. Higher fat content requires proper cooking techniques."
+      }
+    },
+    {
+      "id": "NOI-2109",
+      "name": "Veal Cutlets",
+      "synonyms": ["Veal", "Young Beef"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Tender meat from organically raised young calves, known for delicate texture.",
+      "typical_sources": "Organic calves",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "red_meat",
+      "processing_info": "Zabiha slaughter required; humane raising practices",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Sautéing", "Scaloppine", "Gourmet cooking", "European dishes"],
+        "geographic_origin": ["Europe", "North America", "Global"],
+        "certifier_guidance": "Requires Zabiha slaughter. Verify ethical raising practices meet both organic and halal standards."
+      }
+    },
+    {
+      "id": "NOI-2110",
+      "name": "Whole Chicken",
+      "synonyms": ["Whole Bird", "Roasting Chicken"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Complete organic chicken, perfect for roasting and various cooking methods.",
+      "typical_sources": "Organic chickens",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; may be air-chilled or water-chilled",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Roasting", "Soup making", "Various cultural dishes", "Family meals"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered. Whole bird allows for various cooking methods and cultural preparations."
+      }
+    },
+    {
+      "id": "NOI-2111",
+      "name": "Beef Roast",
+      "synonyms": ["Pot Roast", "Beef Joint"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Large cuts from organic cattle, ideal for slow cooking and roasting.",
+      "typical_sources": "Organic cattle",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "red_meat",
+      "processing_info": "Zabiha slaughter required; may be tied for even cooking",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Slow roasting", "Pot roasts", "Holiday meals", "Sandwiches"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Requires Zabiha slaughter. Larger cuts are often used for special occasions and family gatherings."
+      }
+    },
+    {
+      "id": "NOI-2112",
+      "name": "Cornish Hens",
+      "synonyms": ["Game Hens", "Poussin"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Meats & Poultry",
+      "description": "Young, small chickens from organic sources, known for tender meat.",
+      "typical_sources": "Organic young chickens",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "poultry",
+      "processing_info": "Zabiha slaughter required; individual portion size",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Roasting", "Special occasions", "Fine dining", "Individual servings"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Must be Zabiha slaughtered. Popular for elegant meals and special presentations."
+      }
+    }, 
+
+    {
+      "id": "NOI-2201",
+      "name": "Whole Milk",
+      "synonyms": ["Milk", "Organic Milk"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Unprocessed milk from organically raised cows, containing natural fats and nutrients.",
+      "typical_sources": "Organic dairy cows",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "dairy",
+      "processing_info": "Minimally processed, pasteurized or ultra-pasteurized; no artificial additives",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Drinking", "Cooking", "Baking", "Cereals"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal from Zabiha-slaughtered animals. Requires verification of animal treatment and feed."
+      }
+    },
+    {
+      "id": "NOI-2202",
+      "name": "Greek Yogurt",
+      "synonyms": ["Strained Yogurt", "Greek-Style Yogurt"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Thick, creamy yogurt made by straining whey from cultured milk, resulting in higher protein content.",
+      "typical_sources": "Organic milk",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "fermented_dairy",
+      "processing_info": "Cultured with bacterial strains, strained to remove whey",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Breakfast", "Dips", "Sauces", "Desserts"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal if made from Zabiha milk and bacterial cultures are halal-certified."
+      }
+    },
+    {
+      "id": "NOI-2203",
+      "name": "Cheddar Cheese",
+      "synonyms": ["Aged Cheese", "Hard Cheese"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Firm, natural cheese made from organic milk, aged for flavor development.",
+      "typical_sources": "Organic milk",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "cheese",
+      "processing_info": "Curdling with microbial rennet or enzymes, pressing, and aging",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Sandwiches", "Cooking", "Snacking", "Cheese boards"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Status depends on rennet source. Microbial/vegetable rennet is halal; animal rennet requires Zabiha verification."
+      }
+    },
+    {
+      "id": "NOI-2204",
+      "name": "Butter",
+      "synonyms": ["Sweet Cream Butter", "Dairy Butter"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Dairy product made by churning fresh cream, consisting of butterfat and milk proteins.",
+      "typical_sources": "Organic cream from milk",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "dairy_fat",
+      "processing_info": "Churning of cream, may contain salt or be unsalted",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Cooking", "Baking", "Spreading", "Sauces"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal if made from Zabiha milk. Verify no non-halal additives."
+      }
+    },
+    {
+      "id": "NOI-2205",
+      "name": "Heavy Cream",
+      "synonyms": ["Whipping Cream", "Double Cream"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "High-fat cream portion of milk, containing 36-40% milk fat.",
+      "typical_sources": "Organic milk",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "dairy_fat",
+      "processing_info": "Separation and pasteurization; may be ultra-pasteurized",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Whipping", "Desserts", "Sauces", "Coffee"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal if from Zabiha milk. Check for stabilizers or additives."
+      }
+    },
+    {
+      "id": "NOI-2206",
+      "name": "Sour Cream",
+      "synonyms": ["Cultured Cream"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Cultured dairy product made by fermenting regular cream with lactic acid bacteria.",
+      "typical_sources": "Organic cream",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "fermented_dairy",
+      "processing_info": "Fermentation with bacterial cultures, may contain stabilizers",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Toppings", "Dips", "Baked potatoes", "Mexican cuisine"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal if from Zabiha milk and bacterial cultures are halal. Verify additives."
+      }
+    },
+    {
+      "id": "NOI-2207",
+      "name": "Cottage Cheese",
+      "synonyms": ["Curd Cheese", "Pot Cheese"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Fresh cheese curds with a mild flavor, typically with varying cream content.",
+      "typical_sources": "Organic milk",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "cheese",
+      "processing_info": "Curdling with acid or rennet, draining, may contain cream dressing",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Salads", "Snacking", "Diet foods", "Baking"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Status depends on coagulant used. Acid-set is halal; rennet-set requires verification."
+      }
+    },
+    {
+      "id": "NOI-2208",
+      "name": "Cream Cheese",
+      "synonyms": ["Soft Cheese", "Spreadable Cheese"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Soft, mild-tasting fresh cheese made from milk and cream.",
+      "typical_sources": "Organic milk and cream",
+      "status": "mushbooh",
+      "halal_confidence": null,
+      "ingredient_type": "cheese",
+      "processing_info": "Culturing with lactic acid bacteria, stabilizers may be added",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "mushbooh",
+        "JAKIM": "mushbooh"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Spreads", "Frostings", "Cheesecakes", "Dips"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Verify coagulant source and any stabilizers. Microbial cultures preferred."
+      }
+    },
+    {
+      "id": "NOI-2209",
+      "name": "Buttermilk",
+      "synonyms": ["Cultured Buttermilk"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Fermented dairy drink, traditionally the liquid left after churning butter.",
+      "typical_sources": "Organic milk",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "fermented_dairy",
+      "processing_info": "Culturing with lactic acid bacteria",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Baking", "Marinades", "Drinks", "Salad dressings"],
+        "geographic_origin": ["Global"],
+        "certifier_guidance": "Halal if from Zabiha milk and bacterial cultures are halal-certified."
+      }
+    },
+    {
+      "id": "NOI-2210",
+      "name": "Kefir",
+      "synonyms": ["Fermented Milk Drink"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Probiotic fermented milk drink made with kefir grains, containing multiple strains of bacteria and yeast.",
+      "typical_sources": "Organic milk",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "fermented_dairy",
+      "processing_info": "Fermentation with kefir grains (symbiotic culture of bacteria and yeast)",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Probiotic drink", "Smoothies", "Cooking", "Digestive health"],
+        "geographic_origin": ["Caucasus Mountains", "Global"],
+        "certifier_guidance": "Halal if from Zabiha milk. Natural fermentation process is acceptable."
+      }
+    },
+    {
+      "id": "NOI-2211",
+      "name": "Ghee",
+      "synonyms": ["Clarified Butter", "Butter Oil"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Clarified butter with milk solids removed, having a high smoke point and nutty flavor.",
+      "typical_sources": "Organic butter",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "dairy_fat",
+      "processing_info": "Heating butter to remove water and milk solids",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Cooking", "Frying", "Ayurvedic medicine", "Traditional dishes"],
+        "geographic_origin": ["South Asia", "Middle East", "Global"],
+        "certifier_guidance": "Halal if made from Zabiha butter. Popular in many Muslim cultures."
+      }
+    },
+    {
+      "id": "NOI-2212",
+      "name": "Ricotta Cheese",
+      "synonyms": ["Whey Cheese", "Italian Cheese"],
+      "category": "Natural / Organic Ingredients",
+      "sub_category": "Dairy Products",
+      "description": "Italian whey cheese with a creamy texture and mild, slightly sweet flavor.",
+      "typical_sources": "Organic whey from cheese production",
+      "status": "halal",
+      "halal_confidence": null,
+      "ingredient_type": "cheese",
+      "processing_info": "Heating whey left from cheese production, acid coagulation",
+      "source_type": "animal",
+      "certifier_rulings": {
+        "IFANCA": "halal",
+        "JAKIM": "halal"
+      },
+      "additional_context": {
+        "organic_certification": true,
+        "common_uses": ["Lasagna", "Cannoli", "Desserts", "Spreads"],
+        "geographic_origin": ["Italy", "Global"],
+        "certifier_guidance": "Generally halal as it's acid-coagulated from whey, not using rennet."
+      }
+    },
+
+    {
+    "id": "NOI-2301",
+    "name": "Rice",
+    "synonyms": ["Oryza sativa"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Staple cereal grain widely consumed worldwide.",
+    "typical_sources": "Rice plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Usually hulled and polished; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Rice dishes"], "geographic_origin": ["Asia","Global"], "certifier_guidance": "Halal if free from contamination."}
+  },
+  {
+    "id": "NOI-2302",
+    "name": "Wheat",
+    "synonyms": ["Triticum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Cereal grain used for flour and bread products.",
+    "typical_sources": "Wheat plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Milled into flour; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Bread","Pasta","Pastries"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if free from contamination."}
+  },
+  {
+    "id": "NOI-2303",
+    "name": "Oats",
+    "synonyms": ["Avena sativa"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Cereal grain used for porridge and baking.",
+    "typical_sources": "Oat plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Rolled or steel-cut; ensure no additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Porridge","Baking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2304",
+    "name": "Barley",
+    "synonyms": ["Hordeum vulgare"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Cereal grain used in food and beverages.",
+    "typical_sources": "Barley plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Pearled or whole; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Soups","Brewing","Baking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if free from contamination."}
+  },
+  {
+    "id": "NOI-2305",
+    "name": "Corn",
+    "synonyms": ["Maize","Zea mays"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Cereal grain used as food and feed.",
+    "typical_sources": "Corn plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Can be whole, cornmeal, or flour; avoid non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Snacks"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2306",
+    "name": "Quinoa",
+    "synonyms": ["Chenopodium quinoa"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Pseudo-cereal grain rich in protein.",
+    "typical_sources": "Quinoa plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Rinse before cooking; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Salads","Cooking"], "geographic_origin": ["South America"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2307",
+    "name": "Millet",
+    "synonyms": ["Panicum miliaceum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Small-seeded cereal grain.",
+    "typical_sources": "Millet plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Whole or flour; avoid additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Baking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2308",
+    "name": "Buckwheat",
+    "synonyms": ["Fagopyrum esculentum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Pseudo-cereal used in flour and porridge.",
+    "typical_sources": "Buckwheat plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Whole or ground; ensure no haram additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Porridge","Baking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2309",
+    "name": "Spelt",
+    "synonyms": ["Triticum spelta"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Ancient grain used in baking and cooking.",
+    "typical_sources": "Spelt plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "grain",
+    "processing_info": "Milled to flour; avoid non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Bread","Pasta"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2310",
+    "name": "Chia Seeds",
+    "synonyms": ["Salvia hispanica"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Seed rich in omega-3 fatty acids and protein.",
+    "typical_sources": "Chia plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "seed",
+    "processing_info": "Cleaned and dried; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Smoothies","Baking"], "geographic_origin": ["Mexico","South America"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2311",
+    "name": "Flaxseeds",
+    "synonyms": ["Linum usitatissimum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Seed rich in fiber and omega-3 fatty acids.",
+    "typical_sources": "Flax plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "seed",
+    "processing_info": "Cleaned and dried; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Baking","Cooking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2312",
+    "name": "Hemp Seeds",
+    "synonyms": ["Cannabis sativa seeds"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Grains & Cereals",
+    "description": "Nutrient-rich seeds high in protein and healthy fats.",
+    "typical_sources": "Hemp plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "seed",
+    "processing_info": "Hulled or whole; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Baking","Smoothies"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+
+
+
+
+  
+  {
+    "id": "NOI-2401",
+    "name": "Apples",
+    "synonyms": ["Malus domestica"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Fresh fruit, commonly eaten raw or used in cooking.",
+    "typical_sources": "Apple tree",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Washed and sorted; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Snacks","Cooking","Juices"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2402",
+    "name": "Bananas",
+    "synonyms": ["Musa"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Fresh tropical fruit eaten raw or in desserts.",
+    "typical_sources": "Banana plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Ripe or raw; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Snacks","Smoothies"], "geographic_origin": ["Tropical regions"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2404",
+    "name": "Oranges",
+    "synonyms": ["Citrus sinensis"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Citrus fruit consumed fresh or as juice.",
+    "typical_sources": "Orange tree",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Washed and sorted; free from additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Juice","Snacks","Cooking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2405",
+    "name": "Grapes",
+    "synonyms": ["Vitis vinifera"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Fresh fruit eaten raw or used in desserts.",
+    "typical_sources": "Grape vine",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Washed; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Snacks","Juices","Desserts"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2406",
+    "name": "Carrots",
+    "synonyms": ["Daucus carota"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Root vegetable commonly used raw or cooked.",
+    "typical_sources": "Carrot plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "vegetable",
+    "processing_info": "Washed and sorted; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Snacks","Salads"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2407",
+    "name": "Potatoes",
+    "synonyms": ["Solanum tuberosum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Starchy tuber used in cooking.",
+    "typical_sources": "Potato plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "vegetable",
+    "processing_info": "Washed and peeled; free from additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Fries","Mashed"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2408",
+    "name": "Spinach",
+    "synonyms": ["Spinacia oleracea"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Leafy green vegetable, eaten raw or cooked.",
+    "typical_sources": "Spinach plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "vegetable",
+    "processing_info": "Washed; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Salads","Cooking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2409",
+    "name": "Dates",
+    "synonyms": ["Phoenix dactylifera"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Dried fruit commonly consumed as snack.",
+    "typical_sources": "Date palm",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Pitted and dried; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Snacks","Cooking","Desserts"], "geographic_origin": ["Middle East"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2410",
+    "name": "Raisins",
+    "synonyms": ["Vitis vinifera dried"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Dried grapes used as snack or in baking.",
+    "typical_sources": "Grape vine",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fruit",
+    "processing_info": "Sun-dried or dehydrated; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Snacks","Baking"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+  {
+    "id": "NOI-2411",
+    "name": "Tomatoes",
+    "synonyms": ["Solanum lycopersicum"],
+    "category": "Natural / Organic Ingredients",
+    "sub_category": "Fruits & Vegetables",
+    "description": "Fresh fruit commonly used in cooking or sauces.",
+    "typical_sources": "Tomato plant",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "vegetable",
+    "processing_info": "Washed; free from non-halal additives.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"organic_certification": true, "common_uses": ["Cooking","Sauces"], "geographic_origin": ["Global"], "certifier_guidance": "Halal if pure."}
+  },
+
+  {
+    "id": "NUT-3100",
+    "name": "Vitamin C",
+    "synonyms": ["Ascorbic Acid"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Vitamins & Minerals",
+    "description": "A water-soluble vitamin used as a nutrient supplement and antioxidant.",
+    "typical_sources": "Citrus fruits, synthetic fermentation from glucose",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "vitamin",
+    "processing_info": "Produced via glucose fermentation using microbial processes.",
+    "source_type": "synthetic",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Immune support", "daily_value": "90mg", "common_uses": ["Fortification","Antioxidant","Supplements"], "certifier_guidance": "Halal if not derived from alcohol-based fermentation."}
+  },
+  {
+    "id": "NUT-3101",
+    "name": "Vitamin D3",
+    "synonyms": ["Cholecalciferol"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Vitamins & Minerals",
+    "description": "Fat-soluble vitamin important for bone health.",
+    "typical_sources": "Lanolin from sheep’s wool, some plant-based sources",
+    "status": "mushbooh",
+    "halal_confidence": null,
+    "ingredient_type": "vitamin",
+    "processing_info": "Extracted from lanolin or made via lichen fermentation.",
+    "source_type": "animal/plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "doubtful"},
+    "additional_context": {"nutritional_role": "Bone and immune support", "daily_value": "600 IU", "common_uses": ["Fortification","Supplements"], "certifier_guidance": "Plant-derived preferred for halal certainty."}
+  },
+  {
+    "id": "NUT-3102",
+    "name": "Calcium",
+    "synonyms": ["Calcium carbonate", "Calcium citrate"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Vitamins & Minerals",
+    "description": "Essential mineral for bone and teeth health.",
+    "typical_sources": "Limestone, dairy, fortified foods",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "mineral",
+    "processing_info": "Usually purified from mineral or plant sources.",
+    "source_type": "mineral/plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Bone and teeth health", "daily_value": "1000mg", "common_uses": ["Fortification","Supplements"], "certifier_guidance": "Ensure no animal-derived binders."}
+  },
+  {
+    "id": "NUT-3103",
+    "name": "Iron",
+    "synonyms": ["Ferrous sulfate", "Ferric pyrophosphate"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Vitamins & Minerals",
+    "description": "Essential mineral for hemoglobin production and oxygen transport.",
+    "typical_sources": "Plant sources, mineral salts",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "mineral",
+    "processing_info": "Usually synthesized from mineral salts.",
+    "source_type": "mineral",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Red blood cell formation", "daily_value": "18mg", "common_uses": ["Fortification","Supplements"], "certifier_guidance": "Ensure no animal co-precipitates."}
+  },
+  {
+    "id": "NUT-3201",
+    "name": "Magnesium",
+    "synonyms": ["Magnesium oxide", "Magnesium citrate"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Vitamins & Minerals",
+    "description": "Essential mineral for nerve and muscle function.",
+    "typical_sources": "Minerals, nuts, seeds",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "mineral",
+    "processing_info": "Purified from mineral or plant sources.",
+    "source_type": "mineral/plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Muscle and nerve function", "daily_value": "400mg", "common_uses": ["Fortification","Supplements"], "certifier_guidance": "Halal if plant/mineral sourced."}
+  },
+
+  {
+    "id": "NUT-3202",
+    "name": "L-Lysine",
+    "synonyms": ["Essential amino acid"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Proteins & Amino Acids",
+    "description": "Essential amino acid used for protein synthesis.",
+    "typical_sources": "Plant fermentation or synthetic production",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "amino acid",
+    "processing_info": "Produced via microbial fermentation from plant sugars.",
+    "source_type": "plant/synthetic",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Protein synthesis", "common_uses": ["Fortified foods","Supplements"], "certifier_guidance": "Halal if not derived from animal sources."}
+  },
+  {
+    "id": "NUT-3203",
+    "name": "L-Leucine",
+    "synonyms": ["Essential amino acid"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Proteins & Amino Acids",
+    "description": "Branched-chain amino acid important for muscle repair.",
+    "typical_sources": "Plant fermentation",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "amino acid",
+    "processing_info": "Synthesized via plant-based fermentation.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Muscle repair", "common_uses": ["Protein powders","Supplements"], "certifier_guidance": "Halal if plant sourced."}
+  },
+  {
+    "id": "NUT-3204",
+    "name": "Whey Protein Isolate",
+    "synonyms": ["Milk protein"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Proteins & Amino Acids",
+    "description": "Protein derived from milk, used in sports and nutrition products.",
+    "typical_sources": "Cow’s milk (halal certified)",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "protein",
+    "processing_info": "Filtered and purified; ensure halal-certified milk source.",
+    "source_type": "animal",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Muscle building", "common_uses": ["Protein powders","Fortified foods"], "certifier_guidance": "Halal if milk source is certified."}
+  },
+
+  {
+    "id": "NUT-3301",
+    "name": "Glucose",
+    "synonyms": ["Dextrose"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Carbohydrates & Fibers",
+    "description": "Simple sugar used as sweetener and energy source.",
+    "typical_sources": "Corn, sugarcane",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "carbohydrate",
+    "processing_info": "Derived from corn starch hydrolysis; free from non-halal enzymes.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Energy source", "common_uses": ["Beverages","Baked goods"], "certifier_guidance": "Halal if plant sourced."}
+  },
+  {
+    "id": "NUT-3302",
+    "name": "Maltodextrin",
+    "synonyms": ["Polysaccharide"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Carbohydrates & Fibers",
+    "description": "Starch-derived carbohydrate used as filler or sweetener.",
+    "typical_sources": "Corn, wheat, rice",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "carbohydrate",
+    "processing_info": "Hydrolyzed from starch sources; verify halal enzymes.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Energy and thickening", "common_uses": ["Processed foods","Beverages"], "certifier_guidance": "Halal if plant sourced."}
+  },
+
+  {
+    "id": "NUT-3401",
+    "name": "Omega-3 Fatty Acids",
+    "synonyms": ["ALA","EPA","DHA"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Fats & Bioactive Compounds",
+    "description": "Polyunsaturated fatty acids essential for heart and brain health.",
+    "typical_sources": "Fish oil, flaxseed oil, algae",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "fatty acid",
+    "processing_info": "Refined from oils; ensure halal-certified fish or plant source.",
+    "source_type": "plant/animal",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {"nutritional_role": "Cardiovascular and brain health", "common_uses": ["Fortified foods","Supplements"], "certifier_guidance": "Plant/algae source preferred for halal certainty."}
+  },
+  {
+    "id": "NUT-3402",
+    "name": "Stearic Acid",
+    "synonyms": ["Octadecanoic acid"],
+    "category": "Nutrients & Substances",
+    "sub_category": "Fats & Bioactive Compounds",
+    "description": "Saturated fatty acid used in food and supplements.",
+    "typical_sources": "Vegetable fats, animal fats",
+    "status": "mushbooh",
+    "halal_confidence": null,
+    "ingredient_type": "fatty acid",
+    "processing_info": "Refined from fats; source determines halal status.",
+    "source_type": "plant/animal",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "doubtful"},
+    "additional_context": {"nutritional_role": "Energy and structure", "common_uses": ["Chocolate","Supplements"], "certifier_guidance": "Plant-derived preferred for halal."}
+  },
+  
+
+
+
+
+
+
+  {
+    "id": "PAO-4001",
+    "name": "Gelatin",
+    "synonyms": ["Hydrolyzed Collagen"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Protein obtained by partial hydrolysis of collagen from animal sources.",
+    "typical_sources": "Cattle bones, pig skins, fish scales",
+    "status": "mushbooh",
+    "halal_confidence": null,
+    "ingredient_type": "processing aid",
+    "processing_info": "Derived from boiling animal collagen. Halal status depends on source and slaughter method.",
+    "source_type": "animal",
+    "certifier_rulings": {
+      "IFANCA": "halal if bovine (halal slaughtered)",
+      "JAKIM": "haram if porcine source"
+    },
+    "additional_context": {
+      "functional_role": "Gelling, stabilizing, thickening",
+      "common_uses": ["Confectionery", "Capsules", "Jelly desserts"],
+      "certifier_guidance": "Requires confirmation of source and halal certification."
+    }
+  },
+  {
+    "id": "PAM-4002",
+    "name": "Lecithin",
+    "synonyms": ["Soy Lecithin", "Sunflower Lecithin"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Natural emulsifier used to stabilize mixtures.",
+    "typical_sources": "Soybeans, sunflower seeds",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "emulsifier",
+    "processing_info": "Extracted from plant seeds, sometimes using ethanol or hexane.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Emulsifying agent",
+      "common_uses": ["Chocolate", "Bakery products", "Dressings"],
+      "certifier_guidance": "Halal if plant-derived and no alcohol used."
+    }
+  },
+  {
+    "id": "PAM-4003",
+    "name": "Cellulose",
+    "synonyms": ["Microcrystalline Cellulose", "Plant Fiber"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Plant-derived fiber used as thickener, filler, or anti-caking agent.",
+    "typical_sources": "Wood pulp, cotton linters",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "processing aid",
+    "processing_info": "Purified from plant fibers; generally safe and non-reactive.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Thickener, stabilizer, anti-caking",
+      "common_uses": ["Pharmaceutical tablets", "Bakery", "Confectionery"],
+      "certifier_guidance": "Plant-derived cellulose is generally halal."
+    }
+  },
+  {
+    "id": "PAM-4004",
+    "name": "Glycerin",
+    "synonyms": ["Glycerol"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Humectant and solvent used in food and pharmaceuticals.",
+    "typical_sources": "Vegetable oils, animal fats, or synthetic",
+    "status": "mushbooh",
+    "halal_confidence": null,
+    "ingredient_type": "solvent/humectant",
+    "processing_info": "Source-dependent; plant-based is halal, animal-based requires certification.",
+    "source_type": "plant/animal/synthetic",
+    "certifier_rulings": {"IFANCA": "halal if plant-based", "JAKIM": "doubtful if animal-based"},
+    "additional_context": {
+      "functional_role": "Humectant, solvent, sweetener",
+      "common_uses": ["Candies", "Beverages", "Pharmaceuticals"],
+      "certifier_guidance": "Halal status depends on source."
+    }
+  },
+  {
+    "id": "PAM-4005",
+    "name": "Enzymes",
+    "synonyms": ["Protease", "Amylase", "Lipase"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Proteins that catalyze reactions in food processing.",
+    "typical_sources": "Microbial fermentation, plants, or animals",
+    "status": "mushbooh",
+    "halal_confidence": null,
+    "ingredient_type": "processing aid",
+    "processing_info": "Source-dependent; microbial/plant enzymes generally halal.",
+    "source_type": "microbial/plant/animal",
+    "certifier_rulings": {"IFANCA": "halal if plant/microbial", "JAKIM": "haram if animal-derived non-halal"},
+    "additional_context": {
+      "functional_role": "Catalyst for food processing",
+      "common_uses": ["Cheese", "Baking", "Beverages"],
+      "certifier_guidance": "Halal if non-animal or halal-certified."
+    }
+  },
+  {
+    "id": "PAM-4006",
+    "name": "Propylene Glycol",
+    "synonyms": ["1,2-Propanediol"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Humectant and solvent in food and beverages.",
+    "typical_sources": "Synthetic",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "solvent",
+    "processing_info": "Produced synthetically, generally considered halal.",
+    "source_type": "synthetic",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Humectant, solvent",
+      "common_uses": ["Bakery", "Frostings", "Beverages"],
+      "certifier_guidance": "Halal if synthetic and pure."
+    }
+  },
+  {
+    "id": "PAM-4007",
+    "name": "Silicon Dioxide",
+    "synonyms": ["Silica", "E551"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Anti-caking agent used to prevent clumping in powdered foods.",
+    "typical_sources": "Sand, quartz",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "anti-caking agent",
+    "processing_info": "Inert mineral; generally considered halal.",
+    "source_type": "mineral",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Anti-caking",
+      "common_uses": ["Spices", "Powdered drinks", "Salt blends"],
+      "certifier_guidance": "Generally accepted as halal."
+    }
+  },
+  {
+    "id": "PAM-4008",
+    "name": "Calcium Carbonate",
+    "synonyms": ["Chalk", "E170"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Mineral used as acidity regulator, calcium supplement, or anti-caking agent.",
+    "typical_sources": "Limestone, chalk",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "acid regulator/mineral",
+    "processing_info": "Generally mineral-derived; considered halal.",
+    "source_type": "mineral",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Acidity regulator, anti-caking",
+      "common_uses": ["Baking powders", "Fortified foods", "Supplements"],
+      "certifier_guidance": "Halal if mineral-derived."
+    }
+  },
+  {
+    "id": "PAM-4009",
+    "name": "Sodium Bicarbonate",
+    "synonyms": ["Baking Soda", "NaHCO3"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Used as leavening agent and acidity regulator.",
+    "typical_sources": "Mineral or synthetic",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "processing aid",
+    "processing_info": "Generally synthetic or mineral-derived; considered halal.",
+    "source_type": "mineral/synthetic",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Leavening, acidity regulation",
+      "common_uses": ["Baked goods", "Confectionery", "Beverages"],
+      "certifier_guidance": "Halal if mineral/synthetic."
+    }
+  },
+  {
+    "id": "PAM-4010",
+    "name": "Tartaric Acid",
+    "synonyms": ["Dibasic acid", "E334"],
+    "category": "Miscellaneous Additives and Processing Aids",
+    "description": "Acidulant used in baking and beverages.",
+    "typical_sources": "Grapes, fermented fruit residues",
+    "status": "halal",
+    "halal_confidence": null,
+    "ingredient_type": "acidulant",
+    "processing_info": "Can be extracted from natural sources; generally halal.",
+    "source_type": "plant",
+    "certifier_rulings": {"IFANCA": "halal", "JAKIM": "halal"},
+    "additional_context": {
+      "functional_role": "Acid regulator, flavor enhancer",
+      "common_uses": ["Baking", "Beverages", "Confectionery"],
+      "certifier_guidance": "Halal if plant-derived."
+    }
+  }
+
+
+]
+

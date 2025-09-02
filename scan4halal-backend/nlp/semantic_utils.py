@@ -1,28 +1,36 @@
 import json
 from sentence_transformers import SentenceTransformer
 import numpy as np
+from db.connection import collection
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
-with open('data/ingredients.json', 'r', encoding='utf-8') as f:
+with open('data/ingredients_final.json', 'r', encoding='utf-8') as f:
     ingredients = json.load(f)
 
 
 # Load pretrained model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# model_path = r"C:\Users\DELL\.cache\huggingface\ingredient_embedding_model"
+# model = SentenceTransformer(model_path)
+
+model = SentenceTransformer("model/ingredient_embedding_model")
+
 
 # Prepare texts to embed
 texts = []
 for item in ingredients:
     base = item['name']
     synonyms = item.get('synonyms', [])
-    description = item.get('description', '')
-    category = item.get('category', '')
-    status = item.get('status', '')
+    # description = item.get('description', '')
+    # category = item.get('category', '')
+    # status = item.get('status', '')
 
 
     # You can embed name + synonyms + explanation as one block
     # combined_text = f"{base}. Also known as {', '.join(synonyms)} is {status}. {description}"
-    combined_text = f"{base} {' '.join(synonyms) if synonyms else ''} {status} {category}"
+    combined_text = f"{base} {' '.join(synonyms) if synonyms else ''}"
 
     texts.append(combined_text)
 
@@ -38,12 +46,8 @@ for i, item in enumerate(ingredients):
     item['embedding'] = embeddings[i].tolist()
 
 # Save updated dataset
-with open('embedded_dataset2.json', 'w', encoding='utf-8') as f:
+with open('embedded_dataset3.json', 'w', encoding='utf-8') as f:
     json.dump(ingredients, f, indent=2)    
-
-
-
-
 
 
 

@@ -1,0 +1,1608 @@
+{
+    "Curcumin/Turmeric": [
+        "E100",
+        "turmeric",
+        "curcumin",
+        "tumeric",
+        "Turmeric",
+        "Curcumin",
+        "TUMERIC",
+        "CURCUMIN"
+    ],
+    "Riboflavin (Vitamin B2)": [
+        "E101",
+        "riboflavin",
+        "vitamin B2",
+        "vitamin b2",
+        "riboflavin",
+        "Riboflavin",
+        "VITAMIN B2",
+        "RIBOFLAVIN"
+    ],
+    "Tartrazine": [
+        "E102",
+        "tartrazine",
+        "yellow 5",
+        "tartazine",
+        "tartarazine",
+        "Tartrazine",
+        "YELLOW 5",
+        "TARTAZINE"
+    ],
+    "Quinoline Yellow": [
+        "E104",
+        "quinoline yellow",
+        "quinoline",
+        "quinolin yellow",
+        "Quinoline Yellow",
+        "QUINOLINE YELLOW"
+    ],
+    "Sunset Yellow FCF": [
+        "E110",
+        "sunset yellow",
+        "sunset yellow fcf",
+        "sunset",
+        "Sunset Yellow",
+        "SUNSET YELLOW"
+    ],
+    "Cochineal/Carminic Acid": [
+        "E120",
+        "cochineal",
+        "carminic acid",
+        "cochineal extract",
+        "carmine",
+        "cochinel",
+        "carmin",
+        "Cochineal",
+        "CARMINE"
+    ],
+    "Carmoisine/Azorubine": [
+        "E122",
+        "carmoisine",
+        "azorubine",
+        "carmoisin",
+        "azorubin",
+        "Carmoisine",
+        "AZORUBINE"
+    ],
+    "Amaranth": [
+        "E123",
+        "amaranth",
+        "amarant",
+        "Amaranth",
+        "AMARANTH"
+    ],
+    "Ponceau 4R": [
+        "E124",
+        "ponceau 4r",
+        "ponceau",
+        "ponceau 4",
+        "Ponceau 4R",
+        "PONCEAU"
+    ],
+    "Erythrosine BS": [
+        "E127",
+        "erythrosine",
+        "erythrosine bs",
+        "erithrosine",
+        "erythrosin",
+        "Erythrosine",
+        "ERITHROSINE"
+    ],
+    "Patent Blue V": [
+        "E131",
+        "patent blue",
+        "patent blue v",
+        "Patent Blue",
+        "PATENT BLUE"
+    ],
+    "Indigo Carmine": [
+        "E132",
+        "indigo carmine",
+        "indigotine",
+        "indigo",
+        "Indigo Carmine",
+        "INDIGOTINE"
+    ],
+    "Chlorophyll": [
+        "E140",
+        "chlorophyll",
+        "clorophyll",
+        "chlorophyl",
+        "Chlorophyll",
+        "CHLOROPHYL"
+    ],
+    "Copper Chlorophyll": [
+        "E141",
+        "copper chlorophyll",
+        "copper chlorophyllin",
+        "Copper Chlorophyll",
+        "COPPER CHLOROPHYLLIN"
+    ],
+    "Green S": [
+        "E142",
+        "green s",
+        "green s dye",
+        "Green S",
+        "GREEN S"
+    ],
+    "Caramel Color": [
+        "E150(a-d)",
+        "caramel",
+        "caramel color",
+        "caramel colour",
+        "caramel coloring",
+        "Caramel Color",
+        "CARAMEL"
+    ],
+    "Black PN": [
+        "E151",
+        "black pn",
+        "black pigment",
+        "Black PN",
+        "BLACK PN"
+    ],
+    "Vegetable Carbon": [
+        "E153",
+        "vegetable carbon",
+        "carbon black",
+        "vegetable black",
+        "Vegetable Carbon",
+        "CARBON BLACK"
+    ],
+    "Carotenes": [
+        "E160a",
+        "carotenes",
+        "beta carotene",
+        "carotene",
+        "carotens",
+        "Carotenes",
+        "BETA CAROTENE"
+    ],
+    "Annatto": [
+        "E160b",
+        "annatto",
+        "annato",
+        "achiote",
+        "bixin",
+        "Annatto",
+        "ANNATO"
+    ],
+    "Lycopene": [
+        "E160d",
+        "lycopene",
+        "licopene",
+        "lycopen",
+        "Lycopene",
+        "LYCOPENE"
+    ],
+    "Lutein": [
+        "E161b",
+        "lutein",
+        "luteine",
+        "xanthophyll",
+        "Lutein",
+        "LUTEINE"
+    ],
+    "Beetroot Red": [
+        "E162",
+        "beetroot red",
+        "betanin",
+        "beet red",
+        "beetroot",
+        "Beetroot Red",
+        "BETANIN"
+    ],
+    "Calcium Carbonate": [
+        "Chalk",
+        "E170",
+        "calcium carbonate",
+        "calcium carb",
+        "calcium carbonat",
+        "calcium carbonite",
+        "Calcium Carbonate",
+        "CALCIUM CARBONATE",
+        "CHALK"
+    ],
+    "Titanium Dioxide": [
+        "E171",
+        "titanium dioxide",
+        "titanium white",
+        "titanium oxide",
+        "Titanium Dioxide",
+        "TITANIUM WHITE"
+    ],
+    "Iron Oxides": [
+        "E172",
+        "iron oxides",
+        "iron oxide",
+        "ferric oxide",
+        "Iron Oxides",
+        "IRON OXIDE"
+    ],
+    "Aluminium": [
+        "E173",
+        "aluminium",
+        "aluminum",
+        "aluminium powder",
+        "Aluminium",
+        "ALUMINUM"
+    ],
+    "Silver": [
+        "E174",
+        "silver",
+        "silver leaf",
+        "silver powder",
+        "Silver",
+        "SILVER"
+    ],
+    "Gold": [
+        "E175",
+        "gold",
+        "gold leaf",
+        "gold powder",
+        "Gold",
+        "GOLD"
+    ],
+    "Lithol Rubine BK": [
+        "E180",
+        "lithol rubine",
+        "lithol rubine bk",
+        "lithol",
+        "Lithol Rubine",
+        "LITHOL"
+    ],
+    "Sorbic Acid": [
+        "E200",
+        "sorbic acid",
+        "sorbate",
+        "sorbic",
+        "Sorbic Acid",
+        "SORBATE"
+    ],
+    "Sodium Sorbate": [
+        "E201",
+        "sodium sorbate",
+        "sodium sorbate",
+        "Sodium Sorbate",
+        "SODIUM SORBATE"
+    ],
+    "Potassium Sorbate": [
+        "E202",
+        "potassium sorbate",
+        "potassium sorbate",
+        "Potassium Sorbate",
+        "POTASSIUM SORBATE"
+    ],
+    "Calcium Sorbate": [
+        "E203",
+        "calcium sorbate",
+        "calcium sorbate",
+        "Calcium Sorbate",
+        "CALCIUM SORBATE"
+    ],
+    "Benzoic Acid": [
+        "E210",
+        "benzoic acid",
+        "benzoate",
+        "benzoic",
+        "Benzoic Acid",
+        "BENZOATE"
+    ],
+    "Sodium Benzoate": [
+        "E211",
+        "sodium benzoate",
+        "sodium benzoate",
+        "Sodium Benzoate",
+        "SODIUM BENZOATE"
+    ],
+    "Potassium Benzoate": [
+        "E212",
+        "potassium benzoate",
+        "potassium benzoate",
+        "Potassium Benzoate",
+        "POTASSIUM BENZOATE"
+    ],
+    "Calcium Benzoate": [
+        "E213",
+        "calcium benzoate",
+        "calcium benzoate",
+        "Calcium Benzoate",
+        "CALCIUM BENZOATE"
+    ],
+    "Ethyl 4-hydroxybenzoate": [
+        "E214",
+        "ethyl 4-hydroxybenzoate",
+        "ethyl paraben",
+        "ethyl para-hydroxybenzoate",
+        "Ethyl Paraben",
+        "ETHYL PARABEN"
+    ],
+    "Sulphur Dioxide": [
+        "E220",
+        "sulphur dioxide",
+        "sulfur dioxide",
+        "sulphur dioxide",
+        "sulfite",
+        "Sulphur Dioxide",
+        "SULFUR DIOXIDE"
+    ],
+    "Sodium Sulphite": [
+        "E221",
+        "sodium sulphite",
+        "sodium sulfite",
+        "sodium sulphite",
+        "Sodium Sulphite",
+        "SODIUM SULFITE"
+    ],
+    "Sodium Metabisulphite": [
+        "E223",
+        "sodium metabisulphite",
+        "sodium metabisulfite",
+        "sodium pyrosulfite",
+        "Sodium Metabisulphite",
+        "SODIUM METABISULFITE"
+    ],
+    "Potassium Metabisulphite": [
+        "E224",
+        "potassium metabisulphite",
+        "potassium metabisulfite",
+        "potassium pyrosulfite",
+        "Potassium Metabisulphite",
+        "POTASSIUM METABISULFITE"
+    ],
+    "Calcium Sulphite": [
+        "E226",
+        "calcium sulphite",
+        "calcium sulfite",
+        "calcium sulphite",
+        "Calcium Sulphite",
+        "CALCIUM SULFITE"
+    ],
+    "Calcium Hydrogen Sulphite": [
+        "E227",
+        "calcium hydrogen sulphite",
+        "calcium bisulfite",
+        "calcium hydrogen sulfite",
+        "Calcium Bisulfite",
+        "CALCIUM BISULFITE"
+    ],
+    "Biphenyl": [
+        "E230",
+        "biphenyl",
+        "diphenyl",
+        "phenylbenzene",
+        "Biphenyl",
+        "DIPHENYL"
+    ],
+    "Hexamine": [
+        "E239",
+        "hexamine",
+        "hexamethylenetetramine",
+        "methenamine",
+        "Hexamine",
+        "HEXAMETHYLENETETRAMINE"
+    ],
+    "Sodium Nitrite": [
+        "E250",
+        "sodium nitrite",
+        "sodium nitrite",
+        "Sodium Nitrite",
+        "SODIUM NITRITE"
+    ],
+    "Sodium Nitrate": [
+        "E251",
+        "sodium nitrate",
+        "sodium nitrate",
+        "chile saltpeter",
+        "Sodium Nitrate",
+        "CHILE SALTPETER"
+    ],
+    "Potassium Nitrate": [
+        "E252",
+        "potassium nitrate",
+        "potassium nitrate",
+        "saltpeter",
+        "Potassium Nitrate",
+        "SALTPETER"
+    ],
+    "Ascorbic Acid (Vitamin C)": [
+        "E300",
+        "ascorbic acid",
+        "vitamin C",
+        "vitamin c",
+        "ascorbate",
+        "Ascorbic Acid",
+        "VITAMIN C"
+    ],
+    "Sodium Ascorbate": [
+        "E301",
+        "sodium ascorbate",
+        "sodium ascorbate",
+        "Sodium Ascorbate",
+        "SODIUM ASCORBATE"
+    ],
+    "Calcium Ascorbate": [
+        "E302",
+        "calcium ascorbate",
+        "calcium ascorbate",
+        "Calcium Ascorbate",
+        "CALCIUM ASCORBATE"
+    ],
+    "Ascorbyl Palmitate": [
+        "E304",
+        "ascorbyl palmitate",
+        "ascorbyl palmitate",
+        "Ascorbyl Palmitate",
+        "ASCORBYL PALMITATE"
+    ],
+    "Tocopherols": [
+        "E306",
+        "tocopherols",
+        "vitamin E",
+        "vitamin e",
+        "tocopherol",
+        "Tocopherols",
+        "VITAMIN E"
+    ],
+    "Propyl Gallate": [
+        "E310",
+        "propyl gallate",
+        "propyl gallate",
+        "Propyl Gallate",
+        "PROPYL GALLATE"
+    ],
+    "Octyl Gallate": [
+        "E311",
+        "octyl gallate",
+        "octyl gallate",
+        "Octyl Gallate",
+        "OCTYL GALLATE"
+    ],
+    "Butylated Hydroxyanisole (BHA)": [
+        "E320",
+        "bha",
+        "butylated hydroxyanisole",
+        "butylhydroxyanisole",
+        "BHA",
+        "BUTYLATED HYDROXYANISOLE"
+    ],
+    "Butylated Hydroxytoluene (BHT)": [
+        "E321",
+        "bht",
+        "butylated hydroxytoluene",
+        "butylhydroxytoluene",
+        "BHT",
+        "BUTYLATED HYDROXYTOLUENE"
+    ],
+    "Lecithin": [
+        "soy lecithin",
+        "sunflower lecithin",
+        "lecithin",
+        "lecthin",
+        "Lecithin",
+        "LECTHIN"
+    ],
+    "Sodium Lactate": [
+        "E325",
+        "sodium lactate",
+        "sodium lactate",
+        "Sodium Lactate",
+        "SODIUM LACTATE"
+    ],
+    "Citric Acid": [
+        "E330",
+        "citric acid",
+        "citrate",
+        "citric",
+        "Citric Acid",
+        "CITRATE"
+    ],
+    "Sodium Citrate": [
+        "E331",
+        "sodium citrate",
+        "sodium citrate",
+        "Sodium Citrate",
+        "SODIUM CITRATE"
+    ],
+    "Calcium Citrate": [
+        "E333",
+        "calcium citrate",
+        "calcium citrate",
+        "Calcium Citrate",
+        "CALCIUM CITRATE"
+    ],
+    "Tartaric Acid": [
+        "Dibasic acid",
+        "E334",
+        "tartaric acid",
+        "tartrate",
+        "tartatic acid",
+        "tartric acid",
+        "tartaric",
+        "Tartaric Acid",
+        "TARTARIC ACID",
+        "TARTRATE"
+    ],
+    "Phosphoric Acid": [
+        "E338",
+        "phosphoric acid",
+        "phosphate",
+        "phosphoric",
+        "Phosphoric Acid",
+        "PHOSPHATE"
+    ],
+    "Sodium Phosphate": [
+        "E339",
+        "sodium phosphate",
+        "sodium phosphate",
+        "Sodium Phosphate",
+        "SODIUM PHOSPHATE"
+    ],
+    "Calcium Phosphate": [
+        "E341",
+        "calcium phosphate",
+        "calcium phosphate",
+        "Calcium Phosphate",
+        "CALCIUM PHOSPHATE"
+    ],
+    "Alginic Acid": [
+        "E400",
+        "alginic acid",
+        "alginate",
+        "algin",
+        "Alginic Acid",
+        "ALGINATE"
+    ],
+    "Sodium Alginate": [
+        "E401",
+        "sodium alginate",
+        "sodium alginate",
+        "Sodium Alginate",
+        "SODIUM ALGINATE"
+    ],
+    "Potassium Alginate": [
+        "E402",
+        "potassium alginate",
+        "potassium alginate",
+        "Potassium Alginate",
+        "POTASSIUM ALGINATE"
+    ],
+    "Ammonium Alginate": [
+        "E403",
+        "ammonium alginate",
+        "ammonium alginate",
+        "Ammonium Alginate",
+        "AMMONIUM ALGINATE"
+    ],
+    "Calcium Alginate": [
+        "E404",
+        "calcium alginate",
+        "calcium alginate",
+        "Calcium Alginate",
+        "CALCIUM ALGINATE"
+    ],
+    "Propylene Glycol Alginate": [
+        "E405",
+        "propylene glycol alginate",
+        "pg alginate",
+        "propylene glycol algin",
+        "Propylene Glycol Alginate",
+        "PG ALGINATE"
+    ],
+    "Agar": [
+        "E406",
+        "agar",
+        "agar agar",
+        "agar-agar",
+        "Agar",
+        "AGAR AGAR"
+    ],
+    "Carrageenan": [
+        "E407",
+        "carrageenan",
+        "carrageen",
+        "carageenan",
+        "carrageenin",
+        "Carrageenan",
+        "CARAGEENAN"
+    ],
+    "Locust Bean Gum": [
+        "E410",
+        "locust bean gum",
+        "carob gum",
+        "carob bean gum",
+        "Locust Bean Gum",
+        "CAROB GUM"
+    ],
+    "Guar Gum": [
+        "E412",
+        "guar gum",
+        "guaran",
+        "guar flour",
+        "Guar Gum",
+        "GUARAN"
+    ],
+    "Gum Arabic": [
+        "E414",
+        "gum arabic",
+        "acacia gum",
+        "arabic gum",
+        "Gum Arabic",
+        "ACACIA GUM"
+    ],
+    "Xanthan Gum": [
+        "E415",
+        "xanthan gum",
+        "xanthan",
+        "xanthum gum",
+        "Xanthan Gum",
+        "XANTHUM"
+    ],
+    "Sorbitol": [
+        "E420",
+        "sorbitol",
+        "sorbit",
+        "sorbite",
+        "Sorbitol",
+        "SORBIT"
+    ],
+    "Glycerol/Glycerin": [
+        "E422",
+        "glycerol",
+        "glycerin",
+        "glycerine",
+        "glycerol",
+        "Glycerol",
+        "GLYCERIN"
+    ],
+    "Pectin": [
+        "E440a",
+        "pectin",
+        "pectine",
+        "pectins",
+        "Pectin",
+        "PECTINE"
+    ],
+    "Microcrystalline Cellulose": [
+        "E460",
+        "microcrystalline cellulose",
+        "cellulose gel",
+        "mcc",
+        "Microcrystalline Cellulose",
+        "MCC"
+    ],
+    "Methylcellulose": [
+        "E461",
+        "methylcellulose",
+        "methyl cellulose",
+        "methylcellulose",
+        "Methylcellulose",
+        "METHYL CELLULOSE"
+    ],
+    "Sodium Stearoyl Lactylate": [
+        "E481",
+        "sodium stearoyl lactylate",
+        "ssl",
+        "sodium stearoyl lactylate",
+        "SSL",
+        "SODIUM STEAROYL LACTYLATE"
+    ],
+    "Calcium Stearoyl Lactylate": [
+        "E482",
+        "calcium stearoyl lactylate",
+        "csl",
+        "calcium stearoyl lactylate",
+        "CSL",
+        "CALCIUM STEAROYL LACTYLATE"
+    ],
+    "Sodium Carbonate": [
+        "E500",
+        "sodium carbonate",
+        "soda ash",
+        "washing soda",
+        "Sodium Carbonate",
+        "SODA ASH"
+    ],
+    "Sodium Bicarbonate": [
+        "Baking Soda",
+        "NaHCO3",
+        "sodium bicarbonate",
+        "bicarbonate of soda",
+        "sodium bicarb",
+        "sodium bicarbonat",
+        "sodium bicarbonite",
+        "Sodium Bicarbonate",
+        "SODIUM BICARBONATE",
+        "BAKING SODA"
+    ],
+    "Potassium Carbonate": [
+        "E501",
+        "potassium carbonate",
+        "potash",
+        "pearl ash",
+        "Potassium Carbonate",
+        "POTASH"
+    ],
+    "Ammonium Carbonate": [
+        "E503",
+        "ammonium carbonate",
+        "hartshorn",
+        "baker's ammonia",
+        "Ammonium Carbonate",
+        "HARTSHORN"
+    ],
+    "Magnesium Carbonate": [
+        "E504",
+        "magnesium carbonate",
+        "magnesia alba",
+        "magnesium carb",
+        "Magnesium Carbonate",
+        "MAGNESIA ALBA"
+    ],
+    "Hydrochloric Acid": [
+        "E507",
+        "hydrochloric acid",
+        "hcl",
+        "muriatic acid",
+        "Hydrochloric Acid",
+        "HCL"
+    ],
+    "Potassium Chloride": [
+        "E508",
+        "potassium chloride",
+        "potassium chlor",
+        "kcl",
+        "Potassium Chloride",
+        "KCL"
+    ],
+    "Calcium Chloride": [
+        "E509",
+        "calcium chloride",
+        "calcium chlor",
+        "cacl2",
+        "Calcium Chloride",
+        "CACL2"
+    ],
+    "Ammonium Chloride": [
+        "E510",
+        "ammonium chloride",
+        "sal ammoniac",
+        "ammonium chlor",
+        "Ammonium Chloride",
+        "SAL AMMONIAC"
+    ],
+    "Sulphuric Acid": [
+        "E513",
+        "sulphuric acid",
+        "sulfuric acid",
+        "oil of vitriol",
+        "Sulphuric Acid",
+        "SULFURIC ACID"
+    ],
+    "Sodium Sulphate": [
+        "E514",
+        "sodium sulphate",
+        "sodium sulfate",
+        "sodium sulphate",
+        "Sodium Sulphate",
+        "SODIUM SULFATE"
+    ],
+    "Potassium Sulphate": [
+        "E515",
+        "potassium sulphate",
+        "potassium sulfate",
+        "potash sulfate",
+        "Potassium Sulphate",
+        "POTASSIUM SULFATE"
+    ],
+    "Calcium Sulphate": [
+        "E516",
+        "calcium sulphate",
+        "calcium sulfate",
+        "gypsum",
+        "Calcium Sulphate",
+        "GYPSUM"
+    ],
+    "Magnesium Sulphate": [
+        "E518",
+        "magnesium sulphate",
+        "magnesium sulfate",
+        "epsom salt",
+        "Magnesium Sulphate",
+        "EPSOM SALT"
+    ],
+    "Sodium Hydroxide": [
+        "E524",
+        "sodium hydroxide",
+        "lye",
+        "caustic soda",
+        "Sodium Hydroxide",
+        "LYE"
+    ],
+    "Potassium Hydroxide": [
+        "E525",
+        "potassium hydroxide",
+        "potassium hydroxide",
+        "caustic potash",
+        "Potassium Hydroxide",
+        "CAUSTIC POTASH"
+    ],
+    "Calcium Hydroxide": [
+        "E526",
+        "calcium hydroxide",
+        "slaked lime",
+        "pickling lime",
+        "Calcium Hydroxide",
+        "SLAKED LIME"
+    ],
+    "Ammonium Hydroxide": [
+        "E527",
+        "ammonium hydroxide",
+        "ammonia water",
+        "aqua ammonia",
+        "Ammonium Hydroxide",
+        "AMMONIA WATER"
+    ],
+    "Magnesium Hydroxide": [
+        "E528",
+        "magnesium hydroxide",
+        "milk of magnesia",
+        "magnesia magma",
+        "Magnesium Hydroxide",
+        "MILK OF MAGNESIA"
+    ],
+    "Calcium Oxide": [
+        "E529",
+        "calcium oxide",
+        "quicklime",
+        "burnt lime",
+        "Calcium Oxide",
+        "QUICKLIME"
+    ],
+    "Magnesium Oxide": [
+        "E530",
+        "magnesium oxide",
+        "magnesia",
+        "periclase",
+        "Magnesium Oxide",
+        "MAGNESIA"
+    ],
+    "L-Glutamic Acid": [
+        "E620",
+        "glutamic acid",
+        "glutamate",
+        "glutamic",
+        "Glutamic Acid",
+        "GLUTAMATE"
+    ],
+    "Monosodium Glutamate (MSG)": [
+        "E621",
+        "monosodium glutamate",
+        "msg",
+        "sodium glutamate",
+        "MSG",
+        "MONOSODIUM GLUTAMATE"
+    ],
+    "Monopotassium Glutamate": [
+        "E622",
+        "monopotassium glutamate",
+        "potassium glutamate",
+        "monopotassium glutamate",
+        "Monopotassium Glutamate",
+        "POTASSIUM GLUTAMATE"
+    ],
+    "Calcium Glutamate": [
+        "E623",
+        "calcium glutamate",
+        "calcium glutamate",
+        "Calcium Glutamate",
+        "CALCIUM GLUTAMATE"
+    ],
+    "Monoammonium Glutamate": [
+        "E624",
+        "monoammonium glutamate",
+        "ammonium glutamate",
+        "monoammonium glutamate",
+        "Monoammonium Glutamate",
+        "AMMONIUM GLUTAMATE"
+    ],
+    "Magnesium Glutamate": [
+        "E625",
+        "magnesium glutamate",
+        "magnesium glutamate",
+        "Magnesium Glutamate",
+        "MAGNESIUM GLUTAMATE"
+    ],
+    "Sodium Guanylate": [
+        "E627",
+        "sodium guanylate",
+        "disodium guanylate",
+        "sodium guanylate",
+        "Sodium Guanylate",
+        "DISODIUM GUANYLATE"
+    ],
+    "Potassium Guanylate": [
+        "E628",
+        "potassium guanylate",
+        "dipotassium guanylate",
+        "potassium guanylate",
+        "Potassium Guanylate",
+        "DIPOTASSIUM GUANYLATE"
+    ],
+    "Calcium Guanylate": [
+        "E629",
+        "calcium guanylate",
+        "calcium guanylate",
+        "Calcium Guanylate",
+        "CALCIUM GUANYLATE"
+    ],
+    "Sodium Inosinate": [
+        "E631",
+        "sodium inosinate",
+        "disodium inosinate",
+        "sodium inosinate",
+        "Sodium Inosinate",
+        "DISODIUM INOSINATE"
+    ],
+    "Potassium Inosinate": [
+        "E632",
+        "potassium inosinate",
+        "dipotassium inosinate",
+        "potassium inosinate",
+        "Potassium Inosinate",
+        "DIPOTASSIUM INOSINATE"
+    ],
+    "Calcium Inosinate": [
+        "E633",
+        "calcium inosinate",
+        "calcium inosinate",
+        "Calcium Inosinate",
+        "CALCIUM INOSINATE"
+    ],
+    "Sodium 5'-Ribonucleotide": [
+        "E635",
+        "sodium ribonucleotide",
+        "disodium ribonucleotide",
+        "sodium 5-ribonucleotide",
+        "Sodium Ribonucleotide",
+        "DISODIUM RIBONUCLEOTIDE"
+    ],
+    "Maltol": [
+        "E636",
+        "maltol",
+        "larixinic acid",
+        "maltol",
+        "Maltol",
+        "LARIXINIC ACID"
+    ],
+    "Ethyl Maltol": [
+        "E637",
+        "ethyl maltol",
+        "ethyl maltol",
+        "ethylmaltol",
+        "Ethyl Maltol",
+        "ETHYLMALTOL"
+    ],
+    "Glycine": [
+        "E640",
+        "glycine",
+        "aminoacetic acid",
+        "glycocoll",
+        "Glycine",
+        "AMINOACETIC ACID"
+    ],
+    "Dimethylpolysiloxane": [
+        "E900",
+        "dimethylpolysiloxane",
+        "dmps",
+        "polydimethylsiloxane",
+        "Dimethylpolysiloxane",
+        "PDMS"
+    ],
+    "Beeswax": [
+        "E901",
+        "beeswax",
+        "bee wax",
+        "white beeswax",
+        "Beeswax",
+        "BEE WAX"
+    ],
+    "Carnauba Wax": [
+        "E903",
+        "carnauba wax",
+        "brazil wax",
+        "palm wax",
+        "Carnauba Wax",
+        "BRAZIL WAX"
+    ],
+    "Shellac": [
+        "E904",
+        "shellac",
+        "lac resin",
+        "confectioner's glaze",
+        "Shellac",
+        "LAC RESIN"
+    ],
+    "Mineral Hydrocarbons": [
+        "E905",
+        "mineral hydrocarbons",
+        "mineral oil",
+        "petroleum jelly",
+        "Mineral Hydrocarbons",
+        "MINERAL OIL"
+    ],
+    "Refined Microcrystalline Wax": [
+        "E907",
+        "microcrystalline wax",
+        "microwax",
+        "petroleum wax",
+        "Microcrystalline Wax",
+        "MICROWAX"
+    ],
+    "L-Cysteine Hydrochloride": [
+        "E920",
+        "cysteine",
+        "l-cysteine",
+        "cysteine hcl",
+        "Cysteine",
+        "L-CYSTEINE"
+    ],
+    "Potassium Bromate": [
+        "E924",
+        "potassium bromate",
+        "bromic acid potassium salt",
+        "potassium bromate",
+        "Potassium Bromate",
+        "BROMIC ACID POTASSIUM SALT"
+    ],
+    "Chlorine": [
+        "E925",
+        "chlorine",
+        "chlorine gas",
+        "chlorine",
+        "Chlorine",
+        "CHLORINE GAS"
+    ],
+    "Chlorine Dioxide": [
+        "E926",
+        "chlorine dioxide",
+        "chlorine oxide",
+        "chlorine dioxide",
+        "Chlorine Dioxide",
+        "CHLORINE OXIDE"
+    ],
+    "Azodicarbonamide": [
+        "E927",
+        "azodicarbonamide",
+        "ada",
+        "azobisformamide",
+        "Azodicarbonamide",
+        "ADA"
+    ],
+    "Aspartame": [
+        "E951",
+        "aspartame",
+        "aspartam",
+        "aspartame",
+        "Aspartame",
+        "ASPARTAM"
+    ],
+    "Neotame": [
+        "E961",
+        "neotame",
+        "neotam",
+        "neotame",
+        "Neotame",
+        "NEOTAM"
+    ],
+    "Salt": [
+        "salt",
+        "sodium chloride",
+        "table salt",
+        "sea salt",
+        "Salt",
+        "SODIUM CHLORIDE"
+    ],
+    "Water": [
+        "water",
+        "h2o",
+        "aqua",
+        "distilled water",
+        "Water",
+        "H2O"
+    ],
+    "Chicken Breast": [
+        "chicken",
+        "poultry breast",
+        "chicken breast",
+        "chicken breat",
+        "Chicken Breast",
+        "CHICKEN"
+    ],
+    "Ground Beef": [
+        "minced beef",
+        "hamburger meat",
+        "ground beef",
+        "ground beed",
+        "Ground Beef",
+        "MINCED BEEF"
+    ],
+    "Lamb Chops": [
+        "lamb ribs",
+        "lamb cutlets",
+        "lamb chops",
+        "lamb shops",
+        "Lamb Chops",
+        "LAMB RIBS"
+    ],
+    "Turkey Breast": [
+        "turkey",
+        "turkey fillets",
+        "turkey breast",
+        "turky breast",
+        "Turkey Breast",
+        "TURKEY"
+    ],
+    "Beef Steak": [
+        "steak",
+        "beef cut",
+        "beef steak",
+        "beef stake",
+        "Beef Steak",
+        "STEAK"
+    ],
+    "Chicken Thighs": [
+        "dark meat chicken",
+        "chicken legs",
+        "chicken thighs",
+        "chicken this",
+        "Chicken Thighs",
+        "CHICKEN LEGS"
+    ],
+    "Ground Turkey": [
+        "minced turkey",
+        "turkey mince",
+        "ground turkey",
+        "ground turky",
+        "Ground Turkey",
+        "MINCED TURKEY"
+    ],
+    "Duck Breast": [
+        "duck",
+        "duck magret",
+        "duck breast",
+        "duck breat",
+        "Duck Breast",
+        "DUCK"
+    ],
+    "Veal Cutlets": [
+        "veal",
+        "young beef",
+        "veal cutlets",
+        "veal cutlets",
+        "Veal Cutlets",
+        "VEAL"
+    ],
+    "Whole Chicken": [
+        "whole bird",
+        "roasting chicken",
+        "whole chicken",
+        "whole chiken",
+        "Whole Chicken",
+        "ROASTING CHICKEN"
+    ],
+    "Beef Roast": [
+        "pot roast",
+        "beef joint",
+        "beef roast",
+        "beef roest",
+        "Beef Roast",
+        "POT ROAST"
+    ],
+    "Cornish Hens": [
+        "game hens",
+        "poussin",
+        "cornish hens",
+        "cornish hens",
+        "Cornish Hens",
+        "GAME HENS"
+    ],
+    "Whole Milk": [
+        "milk",
+        "organic milk",
+        "whole milk",
+        "whole milke",
+        "Whole Milk",
+        "MILK"
+    ],
+    "Greek Yogurt": [
+        "strained yogurt",
+        "greek-style yogurt",
+        "greek yogurt",
+        "greek yoghurt",
+        "Greek Yogurt",
+        "GREEK YOGHURT"
+    ],
+    "Cheddar Cheese": [
+        "aged cheese",
+        "hard cheese",
+        "cheddar cheese",
+        "chedder cheese",
+        "Cheddar Cheese",
+        "CHEDDAR"
+    ],
+    "Butter": [
+        "sweet cream butter",
+        "dairy butter",
+        "butter",
+        "buter",
+        "Butter",
+        "BUTER"
+    ],
+    "Heavy Cream": [
+        "whipping cream",
+        "double cream",
+        "heavy cream",
+        "heavy creme",
+        "Heavy Cream",
+        "WHIPPING CREAM"
+    ],
+    "Sour Cream": [
+        "cultured cream",
+        "sour cream",
+        "sour creme",
+        "sour creme",
+        "Sour Cream",
+        "SOUR CREME"
+    ],
+    "Cottage Cheese": [
+        "curd cheese",
+        "pot cheese",
+        "cottage cheese",
+        "cottage chese",
+        "Cottage Cheese",
+        "CURD CHEESE"
+    ],
+    "Cream Cheese": [
+        "soft cheese",
+        "spreadable cheese",
+        "cream cheese",
+        "creme cheese",
+        "Cream Cheese",
+        "CREME CHEESE"
+    ],
+    "Buttermilk": [
+        "cultured buttermilk",
+        "buttermilk",
+        "butter milk",
+        "buttermilke",
+        "Buttermilk",
+        "BUTTER MILK"
+    ],
+    "Kefir": [
+        "fermented milk drink",
+        "kefir",
+        "kephir",
+        "keefir",
+        "Kefir",
+        "KEPHIR"
+    ],
+    "Ghee": [
+        "clarified butter",
+        "butter oil",
+        "ghee",
+        "ghi",
+        "Ghee",
+        "GHI"
+    ],
+    "Ricotta Cheese": [
+        "whey cheese",
+        "italian cheese",
+        "ricotta cheese",
+        "ricota cheese",
+        "Ricotta Cheese",
+        "RICOTTA"
+    ],
+    "Rice": [
+        "oryza sativa",
+        "rice",
+        "ryce",
+        "Rice",
+        "RYCE"
+    ],
+    "Wheat": [
+        "triticum",
+        "wheat",
+        "wheet",
+        "Wheat",
+        "WHEET"
+    ],
+    "Oats": [
+        "avena sativa",
+        "oats",
+        "otes",
+        "Oats",
+        "OTES"
+    ],
+    "Barley": [
+        "hordeum vulgare",
+        "barley",
+        "barle",
+        "Barley",
+        "BARLE"
+    ],
+    "Corn": [
+        "maize",
+        "zea mays",
+        "corn",
+        "korn",
+        "Corn",
+        "KORN"
+    ],
+    "Quinoa": [
+        "chenopodium quinoa",
+        "quinoa",
+        "keenwa",
+        "Quinoa",
+        "KEENWA"
+    ],
+    "Millet": [
+        "panicum miliaceum",
+        "millet",
+        "milet",
+        "Millet",
+        "MILET"
+    ],
+    "Buckwheat": [
+        "fagopyrum esculentum",
+        "buckwheat",
+        "buckwheet",
+        "Buckwheat",
+        "BUCKWHEET"
+    ],
+    "Spelt": [
+        "triticum spelta",
+        "spelt",
+        "spelt",
+        "Spelt",
+        "SPELT"
+    ],
+    "Chia Seeds": [
+        "salvia hispanica",
+        "chia seeds",
+        "chia seed",
+        "Chia Seeds",
+        "CHIA SEED"
+    ],
+    "Flaxseeds": [
+        "linum usitatissimum",
+        "flaxseeds",
+        "flax seeds",
+        "flaxseed",
+        "Flaxseeds",
+        "FLAXSEED"
+    ],
+    "Hemp Seeds": [
+        "cannabis sativa seeds",
+        "hemp seeds",
+        "hemp seed",
+        "Hemp Seeds",
+        "HEMP SEED"
+    ],
+    "Apples": [
+        "malus domestica",
+        "apples",
+        "appls",
+        "Apples",
+        "APPLS"
+    ],
+    "Bananas": [
+        "musa",
+        "bananas",
+        "banans",
+        "Bananas",
+        "BANANS"
+    ],
+    "Oranges": [
+        "citrus sinensis",
+        "oranges",
+        "ornges",
+        "Oranges",
+        "ORNGES"
+    ],
+    "Grapes": [
+        "vitis vinifera",
+        "grapes",
+        "grapes",
+        "Grapes",
+        "GRAPES"
+    ],
+    "Carrots": [
+        "daucus carota",
+        "carrots",
+        "carots",
+        "Carrots",
+        "CAROTS"
+    ],
+    "Potatoes": [
+        "solanum tuberosum",
+        "potatoes",
+        "potatos",
+        "Potatoes",
+        "POTATOS"
+    ],
+    "Spinach": [
+        "spinacia oleracea",
+        "spinach",
+        "spinage",
+        "Spinach",
+        "SPINAGE"
+    ],
+    "Dates": [
+        "phoenix dactylifera",
+        "dates",
+        "datess",
+        "Dates",
+        "DATESS"
+    ],
+    "Raisins": [
+        "vitis vinifera dried",
+        "raisins",
+        "rasins",
+        "Raisins",
+        "RASINS"
+    ],
+    "Tomatoes": [
+        "solanum lycopersicum",
+        "tomatoes",
+        "tomatos",
+        "Tomatoes",
+        "TOMATOS"
+    ],
+    "Vitamin C": [
+        "ascorbic acid",
+        "vitamin C",
+        "vitamin c",
+        "vitamin c",
+        "Vitamin C",
+        "VITAMIN C"
+    ],
+    "Vitamin D3": [
+        "cholecalciferol",
+        "vitamin D3",
+        "vitamin d3",
+        "vitamin d",
+        "Vitamin D3",
+        "VITAMIN D"
+    ],
+    "Calcium": [
+        "calcium carbonate",
+        "calcium citrate",
+        "calcium",
+        "calciam",
+        "Calcium",
+        "CALCIAM"
+    ],
+    "Iron": [
+        "ferrous sulfate",
+        "ferric pyrophosphate",
+        "iron",
+        "irn",
+        "Iron",
+        "IRN"
+    ],
+    "Magnesium": [
+        "magnesium oxide",
+        "magnesium citrate",
+        "magnesium",
+        "magnesiam",
+        "Magnesium",
+        "MAGNESIAM"
+    ],
+    "L-Lysine": [
+        "essential amino acid",
+        "l-lysine",
+        "lysine",
+        "lisine",
+        "L-Lysine",
+        "LYSINE"
+    ],
+    "L-Leucine": [
+        "essential amino acid",
+        "l-leucine",
+        "leucine",
+        "leusine",
+        "L-Leucine",
+        "LEUCINE"
+    ],
+    "Whey Protein Isolate": [
+        "milk protein",
+        "whey protein",
+        "whey protein isolate",
+        "whey protien",
+        "Whey Protein Isolate",
+        "WHEY PROTEIN"
+    ],
+    "Glucose": [
+        "dextrose",
+        "glucose",
+        "glucoze",
+        "Glucose",
+        "GLUCOSE"
+    ],
+    "Maltodextrin": [
+        "polysaccharide",
+        "maltodextrin",
+        "maltodextrine",
+        "maltodextin",
+        "Maltodextrin",
+        "MALTODEXTRINE"
+    ],
+    "Omega-3 Fatty Acids": [
+        "ala",
+        "epa",
+        "dha",
+        "omega-3",
+        "omega 3",
+        "Omega-3 Fatty Acids",
+        "OMEGA 3"
+    ],
+    "Stearic Acid": [
+        "octadecanoic acid",
+        "stearic acid",
+        "stearic",
+        "stearic acid",
+        "Stearic Acid",
+        "STEARIC"
+    ],
+    "Gelatin": [
+        "hydrolyzed collagen",
+        "gelatin",
+        "gelatine",
+        "gelatin",
+        "Gelatin",
+        "GELATINE"
+    ],
+    "Cellulose": [
+        "microcrystalline cellulose",
+        "cellulose",
+        "cellulose",
+        "cellulose",
+        "Cellulose",
+        "CELLULOSE"
+    ],
+    "Glycerin": [
+        "glycerol",
+        "glycerin",
+        "glycerine",
+        "glycerin",
+        "Glycerin",
+        "GLYCERINE"
+    ],
+    "Enzymes": [
+        "protease",
+        "amylase",
+        "lipase",
+        "enzymes",
+        "enzimes",
+        "Enzymes",
+        "ENZIMES"
+    ],
+    "Propylene Glycol": [
+        "1,2-propanediol",
+        "propylene glycol",
+        "propylene glycol",
+        "propylene glycol",
+        "Propylene Glycol",
+        "PROPYLENE GLYCOL"
+    ],
+    "Silicon Dioxide": [
+        "silica",
+        "e551",
+        "silicon dioxide",
+        "silicon dioxide",
+        "Silicon Dioxide",
+        "SILICON DIOXIDE"
+    ]
+}

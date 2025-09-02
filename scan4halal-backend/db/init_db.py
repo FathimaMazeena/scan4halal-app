@@ -1,23 +1,58 @@
+# import json
+# from pymongo import MongoClient
+# import os
+# from dotenv import load_dotenv
+
+
+# load_dotenv()
+# client = MongoClient(os.getenv("MONGO_URI"))
+# db = client[os.getenv("MONGO_DB")]
+# collection = db[os.getenv("MONGO_COLLECTION")]
+# users_collection = db[os.getenv("MONGO_COLLECTION_USERS")]
+
+# # Load your JSON file
+
+# with open("embedded_dataset3.json", "r", encoding="utf-8") as file:
+#     data = json.load(file)    
+
+# # Insert all at once
+# if isinstance(data, list):
+#     collection.insert_many(data)
+# else:
+#     collection.insert_one(data)
+
+# print("Data inserted successfully!")
+
+
+# import json
+# from db.connection import collection  # <-- use the reusable connection
+
+# # Load your JSON file
+# with open("embedded_dataset3.json", "r", encoding="utf-8") as file:
+#     data = json.load(file)
+
+# # Insert all at once
+# if isinstance(data, list):
+#     collection.insert_many(data)
+# else:
+#     collection.insert_one(data)
+
+# print("Data inserted successfully!")
+
 import json
-from pymongo import MongoClient
+from db.connection import collection  # import connection only
 
-# Connect to MongoDB
-# client = MongoClient("mongodb+srv://fathimamazeenamycloudcubicle:pPBXM39KX0bikbuX@scan4halalcluster0.45pcbto.mongodb.net/?retryWrites=true&w=majority&appName=Scan4HalalCluster0")
-client = MongoClient("mongodb+srv://fathimamazeenamycloudcubicle:QYVlulxdKT8Gh06E@scan4halalcluster0.45pcbto.mongodb.net/?retryWrites=true&w=majority&appName=Scan4HalalCluster0")
+def seed_data():
+    with open("embedded_dataset3.json", "r", encoding="utf-8") as file:
+        data = json.load(file)
 
-db = client["scan4halal_db"]
-collection = db["ingredients"]
+    if isinstance(data, list):
+        collection.insert_many(data)
+    else:
+        collection.insert_one(data)
 
+    print("Data inserted successfully!")
 
-# Load your JSON file
+if __name__ == "__main__":
+    seed_data()
 
-with open("embedded_dataset2.json", "r", encoding="utf-8") as file:
-    data = json.load(file)    
-
-# Insert all at once
-if isinstance(data, list):
-    collection.insert_many(data)
-else:
-    collection.insert_one(data)
-
-print("Data inserted successfully!")

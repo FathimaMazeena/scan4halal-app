@@ -34,21 +34,17 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import os
 from dotenv import load_dotenv
+from db.connection import collection 
 
 rag_bp = Blueprint("rag", __name__)
 
-# --- MongoDB setup ---
-load_dotenv()
-client = MongoClient(os.getenv("MONGO_URI"))
-db = client[os.getenv("MONGO_DB")]
-collection = db[os.getenv("MONGO_COLLECTION")]
-
 
 # Optional: Initialize embedding model if needed
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+# embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("model/ingredient_embedding_model")
 
 # --- Initialize Retriever and Generator ---
-retriever = Retriever(collection, embedding_model)
+retriever = Retriever(collection, model)
 
 
 generator = ExplanationGenerator()
