@@ -10,11 +10,20 @@ from routes.rag_routes import rag_bp
 from routes.ingredient_browsing_routes import ingredient_bp
 from routes.ocr_routes import ocr_bp
 from db.connection import collection
+from routes.auth_routes import auth_bp
+from flask_jwt_extended import JWTManager
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 
 app = Flask(__name__)
 CORS(app)
+
+app.config["JWT_SECRET_KEY"] = os.getenv("JWT_SECRET_KEY", "dev-insecure-change-me")
+jwt = JWTManager(app)
 
 # model = SentenceTransformer('all-MiniLM-L6-v2')
 model = SentenceTransformer("model/ingredient_embedding_model")
@@ -35,6 +44,7 @@ def home():
 app.register_blueprint(rag_bp, url_prefix="/rag")
 app.register_blueprint(ingredient_bp, url_prefix="/browse")
 app.register_blueprint(ocr_bp)
+app.register_blueprint(auth_bp)
 
 
 

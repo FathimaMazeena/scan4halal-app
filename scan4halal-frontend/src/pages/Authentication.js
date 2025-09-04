@@ -1,16 +1,20 @@
 import React, { useState } from "react";
 import { FcGoogle } from "react-icons/fc";
 
-function AuthPage({ onLogin, onSignup, onGoogleLogin }) {
+function AuthPage({ onLogin, onSignup }) {
   const [isLogin, setIsLogin] = useState(true);
-  const [formData, setFormData] = useState({ email: "", password: "" });
+  const [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    password: "",
+  });
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (isLogin) {
-      onLogin(formData);
+      onLogin({ email: formData.email, password: formData.password });
     } else {
-      onSignup(formData);
+      onSignup(formData); // signup requires name + email + password
     }
   };
 
@@ -21,7 +25,28 @@ function AuthPage({ onLogin, onSignup, onGoogleLogin }) {
           <h2 className="text-2xl font-bold text-center">
             {isLogin ? "Login" : "Create Account"}
           </h2>
+
+          {/* Form */}
           <form onSubmit={handleSubmit} className="mt-4 space-y-4">
+            {/* Only show name for signup */}
+            {!isLogin && (
+              <div>
+                <label className="label">
+                  <span className="label-text">Name</span>
+                </label>
+                <input
+                  type="text"
+                  placeholder="Your full name"
+                  className="input input-bordered w-full"
+                  value={formData.name}
+                  onChange={(e) =>
+                    setFormData({ ...formData, name: e.target.value })
+                  }
+                  required={!isLogin}
+                />
+              </div>
+            )}
+
             <div>
               <label className="label">
                 <span className="label-text">Email</span>
@@ -37,6 +62,7 @@ function AuthPage({ onLogin, onSignup, onGoogleLogin }) {
                 required
               />
             </div>
+
             <div>
               <label className="label">
                 <span className="label-text">Password</span>
@@ -52,6 +78,7 @@ function AuthPage({ onLogin, onSignup, onGoogleLogin }) {
                 required
               />
             </div>
+
             <button type="submit" className="btn btn-primary w-full">
               {isLogin ? "Login" : "Sign Up"}
             </button>
@@ -59,10 +86,7 @@ function AuthPage({ onLogin, onSignup, onGoogleLogin }) {
 
           <div className="divider">OR</div>
 
-          <button
-            onClick={onGoogleLogin}
-            className="btn btn-outline w-full flex items-center gap-2"
-          >
+          <button className="btn btn-outline w-full flex items-center gap-2">
             <FcGoogle size={20} />
             Continue with Google
           </button>
