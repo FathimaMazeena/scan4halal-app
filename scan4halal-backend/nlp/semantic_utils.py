@@ -1,7 +1,8 @@
 import json
 from sentence_transformers import SentenceTransformer
 import numpy as np
-from db.connection import collection
+# from db.connection import collection
+from db import collection, users_collection, scan_collection
 from sklearn.metrics.pairwise import cosine_similarity
 from rapidfuzz import process, fuzz
 

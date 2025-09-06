@@ -59,10 +59,10 @@ function Navbar() {
                 <a>Profile</a>
               </li>
               <li>
-                <a>Saved Scans</a>
+                <Link className="btn btn-outline btn-sm rounded-full" to="/scans">Saved Scans</Link>
               </li>
               <li>
-                <a>History</a>
+                <a>Bookmarks</a>
               </li>
               <li>
                 <a onClick={logout}>Logout</a>

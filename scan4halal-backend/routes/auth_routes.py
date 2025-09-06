@@ -4,7 +4,8 @@ from flask_jwt_extended import (
     create_access_token, jwt_required, get_jwt, get_jwt_identity
 )
 from datetime import timedelta, datetime
-from db.connection import users_collection  # your existing connection
+# from db.connection import users_collection  # your existing connection
+from db import collection, users_collection, scan_collection
 from bson import ObjectId
 import re
 

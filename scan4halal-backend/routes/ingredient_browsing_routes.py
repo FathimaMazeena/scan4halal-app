@@ -1,6 +1,7 @@
 from flask import Blueprint, request, jsonify
 # from db import collection
-from db.connection import collection 
+# from db.connection import collection 
+from db import collection, users_collection, scan_collection
 
 ingredient_bp = Blueprint("browse", __name__)
 

@@ -9,6 +9,7 @@ import AuthPage from './pages/Authentication';
 import Home from './pages/Home';
 import {AuthProvider} from './contexts/AuthContext';
 import AuthService from './services/authService';
+import SavedScans from './pages/SavedScans';
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="/browse" element={<BrowseIngredients />} />
         <Route path="/login" element={<AuthService />} />
         <Route path="/" element={<Home/>} />
+        <Route path="/scans" element={<SavedScans/>} />
       </Routes>
       
   </Router>

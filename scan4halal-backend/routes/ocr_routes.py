@@ -3,7 +3,8 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import os
 from dotenv import load_dotenv
-from db.connection import collection 
+# from db.connection import collection 
+from db import collection, users_collection, scan_collection
 from ocr.ocr_utils import run_ocr, parse_ingredients
 from nlp.semantic_utils import exact_match, fuzzy_match, cosine_similarity, db_vecs, db_names, db_statuses, db_synonyms
 from nlp.embedding_utils import embed_ocr_ingredients

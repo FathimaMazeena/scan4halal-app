@@ -8,8 +8,12 @@ import numpy as np
 from pymongo import MongoClient
 from routes.rag_routes import rag_bp
 from routes.ingredient_browsing_routes import ingredient_bp
+from routes.scan_routes import scans_bp
 from routes.ocr_routes import ocr_bp
-from db.connection import collection
+# from db.connection import collection
+# from db.connection import users_collection, collection, scan_collection
+from db import collection, users_collection, scan_collection
+
 from routes.auth_routes import auth_bp
 from flask_jwt_extended import JWTManager
 import os
@@ -45,6 +49,7 @@ app.register_blueprint(rag_bp, url_prefix="/rag")
 app.register_blueprint(ingredient_bp, url_prefix="/browse")
 app.register_blueprint(ocr_bp)
 app.register_blueprint(auth_bp)
+app.register_blueprint(scans_bp)
 
 
 

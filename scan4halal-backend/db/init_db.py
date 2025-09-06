@@ -40,7 +40,8 @@
 # print("Data inserted successfully!")
 
 import json
-from db.connection import collection  # import connection only
+# from db.connection import collection 
+from db import collection # import connection only
 
 def seed_data():
     with open("embedded_dataset3.json", "r", encoding="utf-8") as file:

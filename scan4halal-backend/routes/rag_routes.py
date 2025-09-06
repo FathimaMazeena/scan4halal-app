@@ -34,7 +34,10 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import os
 from dotenv import load_dotenv
-from db.connection import collection 
+# from db.connection import collection 
+from db import collection, users_collection, scan_collection
+
+
 
 rag_bp = Blueprint("rag", __name__)
 
