@@ -104,18 +104,18 @@ def chat_endpoint():
     })
 
 
-@rag_bp.route("/retrieve", methods=["POST"])
-def retrieve_endpoint():
-    data = request.json
-    ingredient = data.get("ingredient")
+# @rag_bp.route("/retrieve", methods=["POST"])
+# def retrieve_endpoint():
+#     data = request.json
+#     ingredient = data.get("ingredient")
 
-    if not ingredient:
-        return jsonify({"error": "ingredient field is required"}), 400
+#     if not ingredient:
+#         return jsonify({"error": "ingredient field is required"}), 400
 
-    matches = retriever.retrieve(ingredient, top_k=1)
+#     matches = retriever.retrieve(ingredient, top_k=1)
 
-    return jsonify({
-        "ingredient": ingredient,
-        "matches": matches
-    })
+#     return jsonify({
+#         "ingredient": ingredient,
+#         "matches": matches
+#     })
 

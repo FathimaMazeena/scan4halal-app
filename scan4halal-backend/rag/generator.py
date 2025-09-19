@@ -151,11 +151,42 @@
 #             print(f"An error occurred during API call: {e}")
 #             return "An error occurred while generating the explanation. Please try again later."
 
+# from huggingface_hub import InferenceClient
+
+# class ExplanationGenerator:
+#     def __init__(self, model_name="meta-llama/Llama-3.2-3B-Instruct"):
+#         self.client = InferenceClient()
+#         self.model_name = model_name
+
+#     def generate(self, ingredient, context):
+#         prompt = f"Explain if the ingredient '{ingredient}' is halal or haram. Context: {context}"
+
+#         response = self.client.chat.completions.create(
+#             model=self.model_name,
+#             messages=[
+#                 {"role": "system", "content": "You are a halal food expert."},
+#                 {"role": "user", "content": prompt},
+#             ],
+#             max_tokens=300
+#         )
+
+#         return response.choices[0].message["content"]
+
+
 from huggingface_hub import InferenceClient
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class ExplanationGenerator:
     def __init__(self, model_name="meta-llama/Llama-3.2-3B-Instruct"):
-        self.client = InferenceClient()
+        # Load token from .env
+        hf_token = os.getenv("HF_API_TOKEN")
+        if not hf_token:
+            raise ValueError("⚠️ HF_TOKEN not found in environment variables. Please set it in your .env")
+        
+        self.client = InferenceClient(token=hf_token)
         self.model_name = model_name
 
     def generate(self, ingredient, context):

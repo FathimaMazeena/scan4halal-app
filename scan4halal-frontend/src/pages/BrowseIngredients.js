@@ -12,7 +12,7 @@ function BrowseIngredients() {
         setLoading(true);
         console.log("Fetching ingredients..."); // Debug log
         
-        const response = await fetch("http://localhost:5000/browse/ingredients");
+        const response = await fetch("http://localhost:5000/ingredients/browse");
         console.log("Response status:", response.status); // Debug log
         
         if (!response.ok) {

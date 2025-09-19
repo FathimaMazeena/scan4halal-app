@@ -5,80 +5,37 @@ tags:
 - feature-extraction
 - dense
 - generated_from_trainer
-- dataset_size:6734
+- dataset_size:8418
 - loss:CosineSimilarityLoss
 base_model: sentence-transformers/all-MiniLM-L6-v2
 widget:
-- source_sentence: raisins
+- source_sentence: SUNSET YELLOW
   sentences:
-  - Raisins
-  - glycerol
-  - clarified butter
-- source_sentence: microwax
+  - algin
+  - roasting chicken
+  - ERITHROSINE
+- source_sentence: propylene glycol
   sentences:
-  - hemp seeds
-  - aqua
-  - Microcrystalline Wax
-- source_sentence: LAC RESIN
+  - GUARAN
+  - KORN
+  - Propylene Glycol
+- source_sentence: ALUMINUM
   sentences:
-  - beef steak
-  - KEPHIR
-  - Kefir
-- source_sentence: E924
+  - Magnesium Oxide
+  - MCC
+  - gelatine
+- source_sentence: annato
   sentences:
-  - DUCK
-  - potassium bromate
-  - carmine
-- source_sentence: Quinoline Yellow
+  - POTATOS
+  - l-cysteine
+  - calcium carb
+- source_sentence: dairy butter
   sentences:
-  - SODA ASH
-  - MILET
-  - QUINOLINE YELLOW
+  - SLAKED LIME
+  - Butter
+  - pectine
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
-metrics:
-- cosine_accuracy
-- cosine_accuracy_threshold
-- cosine_f1
-- cosine_f1_threshold
-- cosine_precision
-- cosine_recall
-- cosine_ap
-- cosine_mcc
-model-index:
-- name: SentenceTransformer based on sentence-transformers/all-MiniLM-L6-v2
-  results:
-  - task:
-      type: binary-classification
-      name: Binary Classification
-    dataset:
-      name: ingredient eval
-      type: ingredient-eval
-    metrics:
-    - type: cosine_accuracy
-      value: 0.9346793349168646
-      name: Cosine Accuracy
-    - type: cosine_accuracy_threshold
-      value: 0.41688913106918335
-      name: Cosine Accuracy Threshold
-    - type: cosine_f1
-      value: 0.9366359447004609
-      name: Cosine F1
-    - type: cosine_f1_threshold
-      value: 0.41688913106918335
-      name: Cosine F1 Threshold
-    - type: cosine_precision
-      value: 0.9093959731543624
-      name: Cosine Precision
-    - type: cosine_recall
-      value: 0.9655581947743468
-      name: Cosine Recall
-    - type: cosine_ap
-      value: 0.9810349180889775
-      name: Cosine Ap
-    - type: cosine_mcc
-      value: 0.8710213012393218
-      name: Cosine Mcc
 ---
 
 # SentenceTransformer based on sentence-transformers/all-MiniLM-L6-v2
@@ -131,9 +88,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'Quinoline Yellow',
-    'QUINOLINE YELLOW',
-    'SODA ASH',
+    'dairy butter',
+    'Butter',
+    'pectine',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -142,9 +99,9 @@ print(embeddings.shape)
 # Get the similarity scores for the embeddings
 similarities = model.similarity(embeddings, embeddings)
 print(similarities)
-# tensor([[1.0000, 1.0000, 0.2094],
-#         [1.0000, 1.0000, 0.2094],
-#         [0.2094, 0.2094, 1.0000]])
+# tensor([[1.0000, 0.9409, 0.0993],
+#         [0.9409, 1.0000, 0.1235],
+#         [0.0993, 0.1235, 1.0000]])
 ```
 
 <!--
@@ -171,26 +128,6 @@ You can finetune this model on your own dataset.
 *List how the model may foreseeably be misused and address what users ought not to do with the model.*
 -->
 
-## Evaluation
-
-### Metrics
-
-#### Binary Classification
-
-* Dataset: `ingredient-eval`
-* Evaluated with [<code>BinaryClassificationEvaluator</code>](https://sbert.net/docs/package_reference/sentence_transformer/evaluation.html#sentence_transformers.evaluation.BinaryClassificationEvaluator)
-
-| Metric                    | Value     |
-|:--------------------------|:----------|
-| cosine_accuracy           | 0.9347    |
-| cosine_accuracy_threshold | 0.4169    |
-| cosine_f1                 | 0.9366    |
-| cosine_f1_threshold       | 0.4169    |
-| cosine_precision          | 0.9094    |
-| cosine_recall             | 0.9656    |
-| **cosine_ap**             | **0.981** |
-| cosine_mcc                | 0.871     |
-
 <!--
 ## Bias, Risks and Limitations
 
@@ -209,19 +146,19 @@ You can finetune this model on your own dataset.
 
 #### Unnamed Dataset
 
-* Size: 6,734 training samples
+* Size: 8,418 training samples
 * Columns: <code>sentence_0</code>, <code>sentence_1</code>, and <code>label</code>
 * Approximate statistics based on the first 1000 samples:
   |         | sentence_0                                                                       | sentence_1                                                                       | label                                           |
   |:--------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:------------------------------------------------|
   | type    | string                                                                           | string                                                                           | int                                             |
-  | details | <ul><li>min: 3 tokens</li><li>mean: 5.34 tokens</li><li>max: 14 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.21 tokens</li><li>max: 11 tokens</li></ul> | <ul><li>0: ~50.10%</li><li>1: ~49.90%</li></ul> |
+  | details | <ul><li>min: 3 tokens</li><li>mean: 5.31 tokens</li><li>max: 11 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.27 tokens</li><li>max: 11 tokens</li></ul> | <ul><li>0: ~50.30%</li><li>1: ~49.70%</li></ul> |
 * Samples:
-  | sentence_0                 | sentence_1             | label          |
-  |:---------------------------|:-----------------------|:---------------|
-  | <code>Biphenyl</code>      | <code>biphenyl</code>  | <code>1</code> |
-  | <code>ascorbic acid</code> | <code>vitamin c</code> | <code>1</code> |
-  | <code>carmoisine</code>    | <code>AZORUBINE</code> | <code>1</code> |
+  | sentence_0                      | sentence_1                        | label          |
+  |:--------------------------------|:----------------------------------|:---------------|
+  | <code>HARTSHORN</code>          | <code>greek yogurt</code>         | <code>0</code> |
+  | <code>potassium benzoate</code> | <code>solanum lycopersicum</code> | <code>0</code> |
+  | <code>Gum Arabic</code>         | <code>ACACIA GUM</code>           | <code>1</code> |
 * Loss: [<code>CosineSimilarityLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#cosinesimilarityloss) with these parameters:
   ```json
   {
@@ -232,7 +169,6 @@ You can finetune this model on your own dataset.
 ### Training Hyperparameters
 #### Non-Default Hyperparameters
 
-- `eval_strategy`: steps
 - `per_device_train_batch_size`: 16
 - `per_device_eval_batch_size`: 16
 - `multi_dataset_batch_sampler`: round_robin
@@ -242,7 +178,7 @@ You can finetune this model on your own dataset.
 
 - `overwrite_output_dir`: False
 - `do_predict`: False
-- `eval_strategy`: steps
+- `eval_strategy`: no
 - `prediction_loss_only`: True
 - `per_device_train_batch_size`: 16
 - `per_device_eval_batch_size`: 16
@@ -304,6 +240,7 @@ You can finetune this model on your own dataset.
 - `fsdp_config`: {'min_num_params': 0, 'xla': False, 'xla_fsdp_v2': False, 'xla_fsdp_grad_ckpt': False}
 - `fsdp_transformer_layer_cls_to_wrap`: None
 - `accelerator_config`: {'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True, 'non_blocking': False, 'gradient_accumulation_kwargs': None}
+- `parallelism_config`: None
 - `deepspeed`: None
 - `label_smoothing_factor`: 0.0
 - `optim`: adamw_torch_fused
@@ -361,33 +298,21 @@ You can finetune this model on your own dataset.
 </details>
 
 ### Training Logs
-| Epoch  | Step | Training Loss | ingredient-eval_cosine_ap |
-|:------:|:----:|:-------------:|:-------------------------:|
-| 0.2375 | 100  | -             | 0.9338                    |
-| 0.4751 | 200  | -             | 0.9446                    |
-| 0.7126 | 300  | -             | 0.9568                    |
-| 0.9501 | 400  | -             | 0.9645                    |
-| 1.0    | 421  | -             | 0.9660                    |
-| 1.1876 | 500  | 0.1271        | 0.9672                    |
-| 1.4252 | 600  | -             | 0.9682                    |
-| 1.6627 | 700  | -             | 0.9741                    |
-| 1.9002 | 800  | -             | 0.9772                    |
-| 2.0    | 842  | -             | 0.9776                    |
-| 2.1378 | 900  | -             | 0.9785                    |
-| 2.3753 | 1000 | 0.0914        | 0.9794                    |
-| 2.6128 | 1100 | -             | 0.9812                    |
-| 2.8504 | 1200 | -             | 0.9809                    |
-| 3.0    | 1263 | -             | 0.9810                    |
+| Epoch  | Step | Training Loss |
+|:------:|:----:|:-------------:|
+| 0.9488 | 500  | 0.1263        |
+| 1.8975 | 1000 | 0.0894        |
+| 2.8463 | 1500 | 0.0713        |
 
 
 ### Framework Versions
 - Python: 3.12.11
 - Sentence Transformers: 5.1.0
-- Transformers: 4.55.4
+- Transformers: 4.56.0
 - PyTorch: 2.8.0+cu126
 - Accelerate: 1.10.1
 - Datasets: 4.0.0
-- Tokenizers: 0.21.4
+- Tokenizers: 0.22.0
 
 ## Citation
 

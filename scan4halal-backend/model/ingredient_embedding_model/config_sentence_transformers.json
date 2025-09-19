@@ -1,7 +1,7 @@
 {
   "__version__": {
     "sentence_transformers": "5.1.0",
-    "transformers": "4.55.4",
+    "transformers": "4.56.0",
     "pytorch": "2.8.0+cu126"
   },
   "model_type": "SentenceTransformer",
