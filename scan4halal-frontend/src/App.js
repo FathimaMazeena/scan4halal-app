@@ -10,6 +10,7 @@ import Home from './pages/Home';
 import {AuthProvider} from './contexts/AuthContext';
 import AuthService from './services/authService';
 import SavedScans from './pages/SavedScans';
+import BookmarksPage from './pages/BookmarksPage';
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
         <Route path="/login" element={<AuthService />} />
         <Route path="/" element={<Home/>} />
         <Route path="/scans" element={<SavedScans/>} />
+        <Route path="/bookmarks" element={<BookmarksPage/>} />
       </Routes>
       
   </Router>

@@ -55,14 +55,14 @@ function Navbar() {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
-              <li>
+              {/* <li>
                 <a>Profile</a>
+              </li> */}
+              <li>
+                <Link to="/scans">Saved Scans</Link>
               </li>
               <li>
-                <Link className="btn btn-outline btn-sm rounded-full" to="/scans">Saved Scans</Link>
-              </li>
-              <li>
-                <a>Bookmarks</a>
+                <Link to="/bookmarks">Bookmarks</Link>
               </li>
               <li>
                 <a onClick={logout}>Logout</a>

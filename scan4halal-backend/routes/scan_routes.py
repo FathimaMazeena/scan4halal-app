@@ -49,3 +49,30 @@ def get_scan_summaries():
         scan["_id"] = str(scan["_id"])
     
     return jsonify(scans), 200
+
+
+@scans_bp.route("/scans/<scan_id>", methods=["GET"])
+@jwt_required()
+def get_scan_details(scan_id):
+    try:
+        user_id = ObjectId(get_jwt_identity())
+        
+        # Fetch the complete scan document
+        scan = scan_collection.find_one({
+            "_id": ObjectId(scan_id),
+            "user_id": user_id
+        })
+        
+        if not scan:
+            return jsonify({"error": "Scan not found"}), 404
+        
+        # Convert ObjectId and datetime for JSON serialization
+        scan["_id"] = str(scan["_id"])
+        scan["user_id"] = str(scan["user_id"])
+        if scan.get("scanned_at"):
+            scan["scanned_at"] = scan["scanned_at"].isoformat()
+        
+        return jsonify(scan), 200
+        
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
