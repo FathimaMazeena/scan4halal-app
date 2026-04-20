@@ -44,6 +44,7 @@ Frontend Display + User Actions
 ---
 🎥 Demo
 ![App Demo](./demo/demo.gif)
+
 ---
 
 ### 🔹 Layered Architecture
@@ -367,7 +368,9 @@ This broadens the usability of the system and makes it valuable for a wider audi
 ## 👩‍💻 Author
 
 **Mazeena Cader**
+
 Software Engineering Graduate | MERN Stack Developer | ML Enthusiast
+
 🔗 Portfolio: https://mazeenacader.netlify.app
 
 ---
